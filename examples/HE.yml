@@ -1,0 +1,109 @@
+AIMProCompetency:
+  ID: D04
+  name: AI Interaction & Prompting
+  ownedConcepts:
+    - Concept:
+      ID: C01
+      name: Prompt Engineering
+    - Concept:
+      ID: C02
+      name: Prompt Design
+
+AIMProCompetency:
+  ID: G03
+  name: Sustainable AI Model Selection
+  ownedConcepts:
+    - Concept:
+      ID: C03
+      name: Sustainability
+    - Concept:
+      ID: C04
+      name: Ethics in AI
+  
+UserProfile:
+  name: Dr. Clara
+  aiKnowledge: Extensive knowledge of AI concepts and applications, but limited hands-on experience with prompt engineering
+  aiAttitude: Enthusiastic
+  aiConfidence: Moderate confidence
+  role: University Professor of Computer Science
+
+AIMProResource:
+  name: Prompt Engineering Techniques
+  uri: https://www.example.com/prompt-engineering-techniques
+  type: Document
+  tags:
+    - Concept: Prompt Engineering
+
+AIMProResource:
+  name: Sustainable AI Model Selection Guide
+  uri: https://www.example.com/sustainable-ai-model-selection-guide
+  type: Document
+  tags:
+    - Concept: Sustainability
+
+iSQDLearningScenario:
+  learningContext: Higher Education
+  populationTarget:
+    OtherLS:
+      teacherProfile:
+        UserProfile: Dr. Clara
+      classProfile:
+        name: AI Literacy Course Class
+        aiKnowledge: The students use AI Tools daily for study and for fun, but without a structured approach
+        aiAttitude: Enthusiastic
+        aiConfidence: Moderate confidence
+        role: Undergraduate Students
+        n_students: 15
+        
+  scenarioGoal:
+    CustomCourseLS:
+      competencyGoals:
+        - AIMProCompetency: AI Interaction & Prompting
+        - AIMProCompetency: Sustainable AI Model Selection
+  phases:
+    - LearningPhase:
+        name: Exploring Prompt Engineering Techniques Syllabus
+        duration: 8 hours
+        subphases:
+          - LearningPhase:
+              name: Introduction to Prompt Engineering
+              duration: 4 hours
+              goals:
+                - AIMProCompetency: AI Interaction & Prompting
+              resources:
+                - AIMProResource: Prompt Engineering Techniques
+              strategies:
+                - SC5_ScaffoldedExploration:
+                  name: Scaffolded Exploration
+                - SC6_OpenExploration:
+                  name: Open Exploration
+                  strategyAssessment:
+                    - SC25_SelfEfficacy:
+                        name: Self-Efficacy
+                        evaluationCriteria: The learner demonstrates confidence in applying prompt engineering techniques.
+                        fallbackStrategies:
+                          - SC5_ScaffoldedExploration: Scaffolded Exploration
+                - SC17_IteractivePrompting:
+                  name: Interactive Prompting
+              nextPhases:
+                - LearningPhase: Sustainable AI Model Selection
+          - LearningPhase:
+              name: Sustainable AI Model Selection
+              duration: 4 hours
+              goals:
+                - AIMProCompetency: Sustainable AI Model Selection
+              resources:
+                - AIMProResource: Sustainable AI Model Selection Guide
+              strategies:
+                - SC9_DocumentedReflection:
+                    name: Documented Reflection
+                - SC10_ReflectiveDiscussion:
+                    name: Reflective Discussion
+                - SC22_ResponsibleAIUse:
+                    name: Responsible AI Use
+                    strategyAssessment:
+                      - SC24_AttitudesAndBeliefs:
+                          name: Attitudes and Beliefs
+                          evaluationCriteria: The learner demonstrates an understanding of sustainable AI model selection principles.
+                          fallbackStrategies:
+                            - SC9_DocumentedReflection: Documented Reflection
