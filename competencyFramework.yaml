@@ -1,0 +1,1707 @@
+Competency:
+  ID: D01
+  name: AI Concept Understanding
+  description: Comprehend what AI is, its types, and how it differs from traditional software
+  category: DIGITAL
+  ksa: KNOWLEDGE
+  proficiency: FOUNDATION
+  heRelevance: HIGH
+  smeRelevance: HIGH
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - DigComp
+    - OECD
+    - UNESCO
+    - L&M
+
+Competency:
+  ID: D02
+  name: Machine Learning Fundamentals
+  description: Understand supervised, unsupervised, and reinforcement learning paradigms
+  category: DIGITAL
+  ksa: KNOWLEDGE
+  proficiency: FOUNDATION
+  heRelevance: HIGH
+  smeRelevance: MEDIUM
+  vetRelevance: LOW
+  sourceFrameworks:
+    - UNESCO
+    - OECD
+    - L&M
+
+Competency:
+  ID: D03
+  name: Data Literacy for AI
+  description: Collect, curate, label, and evaluate data quality for AI training
+  category: DIGITAL
+  ksa: SKILL
+  proficiency: FOUNDATION
+  heRelevance: HIGH
+  smeRelevance: HIGH
+  vetRelevance: MEDIUM
+  sourceFrameworks:
+    - DigComp
+    - OECD
+    - UNESCO
+
+Competency:
+  ID: D04
+  name: AI Interaction & Prompting
+  description: Effectively interact with AI systems through prompt engineering
+  category: DIGITAL
+  ksa: SKILL
+  proficiency: FOUNDATION
+  heRelevance: HIGH
+  smeRelevance: HIGH
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - OECD
+    - DigPromise
+
+Competency:
+  ID: D05
+  name: AI Output Evaluation
+  description: Critically assess AI-generated content for accuracy, bias, and reliability
+  category: DIGITAL
+  ksa: SKILL
+  proficiency: INTERMEDIATE
+  heRelevance: HIGH
+  smeRelevance: HIGH
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - OECD
+    - DigComp
+    - UNESCO
+    
+Competency:
+  ID: D06
+  name: Algorithmic Thinking
+  description: Decompose problems into steps suitable for AI-assisted solutions
+  category: DIGITAL
+  ksa: SKILL
+  proficiency: FOUNDATION
+  heRelevance: HIGH
+  smeRelevance: MEDIUM
+  vetRelevance: MEDIUM
+  sourceFrameworks:
+    - OECD
+    - DigPromise
+    - L&M
+
+Competency:
+  ID: D07
+  name: AI-Augmented Decision Making
+  description: Integrate AI insights with human judgment for informed decisions
+  category: DIGITAL
+  ksa: SKILL
+  proficiency: INTERMEDIATE
+  heRelevance: HIGH
+  smeRelevance: MEDIUM
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - OECD
+    - DigComp
+
+Competency:
+  ID: D08
+  name: Generative AI Literacy
+  description: Understand capabilities and limitations of generative AI models
+  category: DIGITAL
+  ksa: KNOWLEDGE
+  proficiency: INTERMEDIATE
+  heRelevance: HIGH
+  smeRelevance: HIGH
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - OECD
+    - AIM-PRO
+
+Competency:
+  ID: D09
+  name: AI Tools Selection
+  description: Identify and select appropriate AI tools for specific tasks
+  category: DIGITAL
+  ksa: SKILL
+  proficiency: INTERMEDIATE
+  heRelevance: MEDIUM
+  smeRelevance: HIGH
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - OECD
+    - DigComp
+Competency:
+  ID: D10
+  name: Human-AI Collaboration
+  description: Distribute tasks between humans and AI based on respective strengths
+  category: DIGITAL
+  ksa: SKILL
+  proficiency: INTERMEDIATE
+  heRelevance: HIGH
+  smeRelevance: MEDIUM
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - OECD
+    - DigPromise
+
+Competency:
+  ID: D11
+  name: Digital Content Co-creation
+  description: Collaborate with AI to produce and enhance digital content
+  category: DIGITAL
+  ksa: SKILL
+  proficiency: INTERMEDIATE
+  heRelevance: HIGH
+  smeRelevance: HIGH
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - OECD
+    - DigComp
+Competency:
+  ID: D12
+  name: AI System Transparency
+  description: Evaluate explainability and transparency of AI systems
+  category: DIGITAL
+  ksa: KNOWLEDGE
+  proficiency: ADVANCED
+  heRelevance: HIGH
+  smeRelevance: LOW
+  vetRelevance: MEDIUM
+  sourceFrameworks:
+    - UNESCO
+    - EU AI Act
+
+Competency:
+  ID: D13
+  name: NLP Awareness
+  description: Understand how AI processes and generates human language
+  category: DIGITAL
+  ksa: KNOWLEDGE
+  proficiency: INTERMEDIATE
+  heRelevance: HIGH
+  smeRelevance: MEDIUM
+  vetRelevance: MEDIUM
+  sourceFrameworks:
+    - L&M
+    - UNESCO
+
+Competency:
+  ID: D14
+  name: Computer Vision Awareness
+  description: Recognize AI applications in image recognition and generation
+  category: DIGITAL
+  ksa: KNOWLEDGE
+  proficiency: INTERMEDIATE
+  heRelevance: HIGH
+  smeRelevance: MEDIUM
+  vetRelevance: MEDIUM
+  sourceFrameworks:
+    - L&M
+    - UNESCO
+
+Competency:
+  ID: D15
+  name: AI & Information Verification
+  description: Use AI and critical thinking to detect mis/disinformation
+  category: DIGITAL
+  ksa: SKILL
+  proficiency: INTERMEDIATE
+  heRelevance: HIGH
+  smeRelevance: HIGH
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - DigComp
+    - OECD
+
+Competency:
+  ID: D16
+  name: Data Privacy in AI Contexts
+  description: Apply data protection principles when using AI systems
+  category: DIGITAL
+  ksa: SKILL
+  proficiency: FOUNDATION
+  heRelevance: HIGH
+  smeRelevance: HIGH
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - DigComp
+    - EU AI Act
+
+Competency:
+  ID: D17
+  name: AI Safety & Security
+  description: Recognize cybersecurity risks associated with AI deployment
+  category: DIGITAL
+  ksa: KNOWLEDGE
+  proficiency: INTERMEDIATE
+  heRelevance: MEDIUM
+  smeRelevance: HIGH
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - DigComp
+    - EU AI Act
+
+Competency:
+  ID: D18
+  name: AI & Accessibility
+  description: Leverage AI for inclusive and accessible digital experiences
+  category: DIGITAL
+  ksa: SKILL
+  proficiency: ADVANCED
+  heRelevance: HIGH
+  smeRelevance: MEDIUM
+  vetRelevance: MEDIUM
+  sourceFrameworks:
+    - DigComp
+
+Competency:
+  ID: D19
+  name: AI Regulatory Awareness
+  description: Understand EU AI Act risk classification and compliance
+  category: DIGITAL
+  ksa: KNOWLEDGE
+  proficiency: INTERMEDIATE
+  heRelevance: MEDIUM
+  smeRelevance: MEDIUM
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - EU AI Act
+    - AIM-PRO
+
+Competency:
+  ID: D21
+  name: AI-Enhanced Communication
+  description: Use AI to improve communication across languages and formats
+  category: DIGITAL
+  ksa: SKILL
+  proficiency: INTERMEDIATE
+  heRelevance: MEDIUM
+  smeRelevance: HIGH
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - DigComp
+    - OECD
+Competency:
+  ID: D22
+  name: Responsible AI Use Mindset
+  description: Adopt human-centered approach prioritizing ethics in AI usage
+  category: DIGITAL
+  ksa: ATTITUDE
+  proficiency: FOUNDATION
+  heRelevance: HIGH
+  smeRelevance: HIGH
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - UNESCO
+    - OECD
+    - DigComp
+
+Competency:
+  ID: D23
+  name: AI Workflow Integration
+  description: Embed AI tools into professional and educational workflows
+  category: DIGITAL
+  ksa: SKILL
+  proficiency: ADVANCED
+  heRelevance: MEDIUM
+  smeRelevance: HIGH
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - OECD
+    - AIM-PRO
+Competency:
+  ID: D24
+  name: AI Impact Assessment
+  description: Evaluate societal, economic, and personal impact of AI
+  category: DIGITAL
+  ksa: KNOWLEDGE
+  proficiency: ADVANCED
+  heRelevance: HIGH
+  smeRelevance: MEDIUM
+  vetRelevance: MEDIUM
+  sourceFrameworks:
+    - UNESCO
+    - DigComp
+    - OECD
+
+Competency:
+  ID: D25
+  name: AI & Creative Problem Solving
+  description: Apply AI as a catalyst for innovative approaches to problems
+  category: DIGITAL
+  ksa: SKILL
+  proficiency: ADVANCED
+  heRelevance: HIGH
+  smeRelevance: MEDIUM
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - OECD
+    - DigPromise
+
+Competency:
+  ID: D26
+  name: AI-Assisted Coding
+  description: Use AI coding assistants appropriately to generate, review, explain or adapt code while applying verification and guardrails.
+  category: DIGITAL
+  ksa: SKILL
+  proficiency: INTERMEDIATE
+  heRelevance: HIGH
+  smeRelevance: HIGH
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - USAL v3.1 / extended feedback
+Competency:
+  ID: D27
+  name: Working with AI Agents
+  description: Work with agentic AI systems by understanding goals, tools, handoffs, traces, limitations and human oversight requirements.
+  category: DIGITAL
+  ksa: SKILL
+  proficiency: INTERMEDIATE
+  heRelevance: HIGH
+  smeRelevance: MEDIUM
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - USAL v3.1 / extended feedback
+
+Competency:
+  ID: G01
+  name: AI Environmental Footprint
+  description: Understand energy consumption and carbon emissions of AI
+  category: GREEN
+  ksa: KNOWLEDGE
+  proficiency: FOUNDATION
+  heRelevance: HIGH
+  smeRelevance: HIGH
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - GreenComp
+    - DigComp
+    - AIM-PRO
+
+Competency:
+  ID: G02
+  name: Green Computing Principles
+  description: Apply energy-efficient computing in AI activities
+  category: GREEN
+  ksa: SKILL
+  proficiency: FOUNDATION
+  heRelevance: HIGH
+  smeRelevance: HIGH
+  vetRelevance: MEDIUM
+  sourceFrameworks:
+    - GreenComp
+    - AIM-PRO
+
+Competency:
+  ID: G03
+  name: Sustainable AI Model Selection
+  description: Choose AI models that minimize environmental impact
+  category: GREEN
+  ksa: SKILL
+  proficiency: INTERMEDIATE
+  heRelevance: HIGH
+  smeRelevance: MEDIUM
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - AIM-PRO
+    - GreenComp
+
+Competency:
+  ID: G04
+  name: AI Lifecycle Sustainability
+  description: Assess environmental impact across full AI lifecycle
+  category: GREEN
+  ksa: KNOWLEDGE
+  proficiency: INTERMEDIATE
+  heRelevance: HIGH
+  smeRelevance: MEDIUM
+  vetRelevance: MEDIUM
+  sourceFrameworks:
+    - GreenComp
+    - AIM-PRO
+
+Competency:
+  ID: G05
+  name: Green Software for AI
+  description: Apply green software development principles to AI apps
+  category: GREEN
+  ksa: SKILL
+  proficiency: ADVANCED
+  heRelevance: HIGH
+  smeRelevance: LOW
+  vetRelevance: MEDIUM
+  sourceFrameworks:
+    - Green SW Foundation
+    - AIM-PRO
+
+Competency:
+  ID: G06
+  name: Carbon Footprint Measurement
+  description: Measure and report carbon emissions from AI usage
+  category: GREEN
+  ksa: SKILL
+  proficiency: INTERMEDIATE
+  heRelevance: HIGH
+  smeRelevance: MEDIUM
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - GreenComp
+    - AIM-PRO
+
+Competency:
+  ID: G07
+  name: Renewable Energy for AI
+  description: Understand role of renewable energy in AI infrastructure
+  category: GREEN
+  ksa: KNOWLEDGE
+  proficiency: INTERMEDIATE
+  heRelevance: HIGH
+  smeRelevance: MEDIUM
+  vetRelevance: MEDIUM
+  sourceFrameworks:
+    - GreenComp
+Competency:
+  ID: G08
+  name: Model Compression & Optimization
+  description: Apply pruning, quantization, distillation to reduce resources
+  category: GREEN
+  ksa: SKILL
+  proficiency: ADVANCED
+  heRelevance: HIGH
+  smeRelevance: LOW
+  vetRelevance: MEDIUM
+  sourceFrameworks:
+    - AIM-PRO
+
+Competency:
+  ID: G09
+  name: Eco-friendly Data Management
+  description: Implement sustainable data storage and processing practices
+  category: GREEN
+  ksa: SKILL
+  proficiency: INTERMEDIATE
+  heRelevance: MEDIUM
+  smeRelevance: HIGH
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - DigComp
+    - GreenComp
+
+Competency:
+  ID: G10
+  name: AI for Environmental Monitoring
+  description: Use AI tools to monitor environmental challenges
+  category: GREEN
+  ksa: SKILL
+  proficiency: INTERMEDIATE
+  heRelevance: HIGH
+  smeRelevance: MEDIUM
+  vetRelevance: MEDIUM
+  sourceFrameworks:
+    - GreenComp
+    - AIM-PRO
+
+Competency:
+  ID: G11
+  name: E-waste & Hardware Lifecycle
+  description: Understand environmental impact of device manufacturing/disposal
+  category: GREEN
+  ksa: KNOWLEDGE
+  proficiency: FOUNDATION
+  heRelevance: MEDIUM
+  smeRelevance: HIGH
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - DigComp
+    - GreenComp
+Competency:
+  ID: G12
+  name: Sustainable Digital Practices
+  description: Adopt daily digital behaviors reducing environmental impact
+  category: GREEN
+  ksa: ATTITUDE
+  proficiency: FOUNDATION
+  heRelevance: HIGH
+  smeRelevance: HIGH
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - DigComp
+    - GreenComp
+
+Competency:
+  ID: G13
+  name: GreenComp Alignment
+  description: Connect AI sustainability to EU GreenComp framework
+  category: GREEN
+  ksa: KNOWLEDGE
+  proficiency: INTERMEDIATE
+  heRelevance: HIGH
+  smeRelevance: MEDIUM
+  vetRelevance: MEDIUM
+  sourceFrameworks:
+    - GreenComp
+    - AIM-PRO
+
+Competency:
+  ID: G14
+  name: Circular Economy & AI
+  description: Leverage AI to support circular economy principles
+  category: GREEN
+  ksa: SKILL
+  proficiency: ADVANCED
+  heRelevance: MEDIUM
+  smeRelevance: MEDIUM
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - GreenComp
+    - AIM-PRO
+
+Competency:
+  ID: G15
+  name: AI-Driven Energy Optimization
+  description: Use AI for energy management in organizations
+  category: GREEN
+  ksa: SKILL
+  proficiency: ADVANCED
+  heRelevance: MEDIUM
+  smeRelevance: MEDIUM
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - AIM-PRO
+
+Competency:
+  ID: G16
+  name: Sustainability Impact Reporting
+  description: Communicate AI sustainability impact through reports
+  category: GREEN
+  ksa: SKILL
+  proficiency: INTERMEDIATE
+  heRelevance: MEDIUM
+  smeRelevance: MEDIUM
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - GreenComp
+    - AIM-PRO
+
+Competency:
+  ID: G17
+  name: Green AI Advocacy
+  description: Promote sustainable AI practices in communities
+  category: GREEN
+  ksa: ATTITUDE
+  proficiency: INTERMEDIATE
+  heRelevance: HIGH
+  smeRelevance: MEDIUM
+  vetRelevance: MEDIUM
+  sourceFrameworks:
+    - GreenComp
+
+Competency:
+  ID: G18
+  name: Responsible Cloud Computing
+  description: Select cloud services based on sustainability criteria
+  category: GREEN
+  ksa: SKILL
+  proficiency: INTERMEDIATE
+  heRelevance: MEDIUM
+  smeRelevance: MEDIUM
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - AIM-PRO
+    - GreenComp
+
+Competency:
+  ID: G19
+  name: Environmental Ethics in AI
+  description: Integrate environmental considerations into AI ethics
+  category: GREEN
+  ksa: ATTITUDE
+  proficiency: FOUNDATION
+  heRelevance: HIGH
+  smeRelevance: HIGH
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - GreenComp
+    - UNESCO
+
+Competency:
+  ID: G20
+  name: AI & Climate Action
+  description: Understand AI contribution to climate mitigation/adaptation
+  category: GREEN
+  ksa: KNOWLEDGE
+  proficiency: ADVANCED
+  heRelevance: HIGH
+  smeRelevance: MEDIUM
+  vetRelevance: MEDIUM
+  sourceFrameworks:
+    - GreenComp
+
+Competency:
+  ID: G21
+  name: Sustainable AI Procurement
+  description: Evaluate AI vendors using sustainability criteria
+  category: GREEN
+  ksa: SKILL
+  proficiency: ADVANCED
+  heRelevance: LOW
+  smeRelevance: MEDIUM
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - AIM-PRO
+
+Competency:
+  ID: G22
+  name: Low-Carbon AI Deployment
+  description: Design AI deployment strategies minimizing emissions
+  category: GREEN
+  ksa: SKILL
+  proficiency: ADVANCED
+  heRelevance: MEDIUM
+  smeRelevance: LOW
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - AIM-PRO
+
+Competency:
+  ID: G23
+  name: Digital Sobriety
+  description: Practice intentional and minimal use of digital resources
+  category: GREEN
+  ksa: ATTITUDE
+  proficiency: FOUNDATION
+  heRelevance: HIGH
+  smeRelevance: HIGH
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - GreenComp
+    - DigComp
+
+Competency:
+  ID: G24
+  name: AI & Biodiversity
+  description: Explore AI applications for biodiversity conservation
+  category: GREEN
+  ksa: KNOWLEDGE
+  proficiency: ADVANCED
+  heRelevance: HIGH
+  smeRelevance: LOW
+  vetRelevance: LOW
+  sourceFrameworks:
+    - GreenComp
+
+Competency:
+  ID: G25
+  name: Green AI Innovation Mindset
+  description: Cultivate disposition toward eco-conscious AI solutions
+  category: GREEN
+  ksa: ATTITUDE
+  proficiency: INTERMEDIATE
+  heRelevance: HIGH
+  smeRelevance: MEDIUM
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - GreenComp
+    - AIM-PRO
+
+Competency:
+  ID: R01
+  name: AI-Enhanced Opportunity Recognition
+  description: Use AI to identify business and professional opportunities
+  category: RESILIENCE
+  ksa: SKILL
+  proficiency: INTERMEDIATE
+  heRelevance: MEDIUM
+  smeRelevance: MEDIUM
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - EntreComp
+    - AIM-PRO
+
+Competency:
+  ID: R02
+  name: Adaptive AI Strategy
+  description: Adjust professional strategies in response to AI-driven changes
+  category: RESILIENCE
+  ksa: SKILL
+  proficiency: INTERMEDIATE
+  heRelevance: MEDIUM
+  smeRelevance: HIGH
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - EntreComp
+    - AIM-PRO
+Competency:
+  ID: R03
+  name: AI-Informed Risk Assessment
+  description: Leverage AI for data-driven risk identification
+  category: RESILIENCE
+  ksa: SKILL
+  proficiency: INTERMEDIATE
+  heRelevance: MEDIUM
+  smeRelevance: MEDIUM
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - EntreComp
+    - AIM-PRO
+
+Competency:
+  ID: R04
+  name: Entrepreneurial Mindset with AI
+  description: Combine entrepreneurial thinking with AI for innovation
+  category: RESILIENCE
+  ksa: ATTITUDE
+  proficiency: FOUNDATION
+  heRelevance: HIGH
+  smeRelevance: MEDIUM
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - EntreComp
+
+Competency:
+  ID: R05
+  name: AI Change Management
+  description: Lead organizational transitions involving AI adoption
+  category: RESILIENCE
+  ksa: SKILL
+  proficiency: ADVANCED
+  heRelevance: MEDIUM
+  smeRelevance: MEDIUM
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - EntreComp
+    - AIM-PRO
+
+Competency:
+  ID: R06
+  name: Post-Crisis AI Recovery
+  description: Employ AI insights for recovery after disruptions
+  category: RESILIENCE
+  ksa: SKILL
+  proficiency: ADVANCED
+  heRelevance: LOW
+  smeRelevance: MEDIUM
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - AIM-PRO
+
+Competency:
+  ID: R07
+  name: AI-Powered Business Modeling
+  description: Use AI to create, test, and refine business models
+  category: RESILIENCE
+  ksa: SKILL
+  proficiency: INTERMEDIATE
+  heRelevance: MEDIUM
+  smeRelevance: MEDIUM
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - EntreComp
+    - AIM-PRO
+
+Competency:
+  ID: R08
+  name: Digital Transformation Leadership
+  description: Guide teams through AI-driven digital transformation
+  category: RESILIENCE
+  ksa: SKILL
+  proficiency: ADVANCED
+  heRelevance: MEDIUM
+  smeRelevance: MEDIUM
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - EntreComp
+    - AIM-PRO
+
+Competency:
+  ID: R09
+  name: Growth Mindset for AI Era
+  description: Embrace continuous learning in evolving AI landscapes
+  category: RESILIENCE
+  ksa: ATTITUDE
+  proficiency: FOUNDATION
+  heRelevance: HIGH
+  smeRelevance: HIGH
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - EntreComp
+    - DigComp
+    - UNESCO
+
+Competency:
+  ID: R10
+  name: AI & Innovation Management
+  description: Manage innovation processes integrating AI
+  category: RESILIENCE
+  ksa: SKILL
+  proficiency: ADVANCED
+  heRelevance: MEDIUM
+  smeRelevance: LOW
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - EntreComp
+    - AIM-PRO
+
+Competency:
+  ID: R11
+  name: Collaborative AI Problem Solving
+  description: Engage cross-functional teams to solve problems with AI
+  category: RESILIENCE
+  ksa: SKILL
+  proficiency: INTERMEDIATE
+  heRelevance: HIGH
+  smeRelevance: HIGH
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - OECD
+    - EntreComp
+
+Competency:
+  ID: R12
+  name: EntreComp-AI Alignment
+  description: Map AI competencies to EU EntreComp framework
+  category: RESILIENCE
+  ksa: KNOWLEDGE
+  proficiency: INTERMEDIATE
+  heRelevance: HIGH
+  smeRelevance: MEDIUM
+  vetRelevance: MEDIUM
+  sourceFrameworks:
+    - EntreComp
+    - AIM-PRO
+
+Competency:
+  ID: R13
+  name: AI Market Analysis
+  description: Use AI for market research, competitor analysis, trends
+  category: RESILIENCE
+  ksa: SKILL
+  proficiency: INTERMEDIATE
+  heRelevance: MEDIUM
+  smeRelevance: MEDIUM
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - EntreComp
+    - AIM-PRO
+
+Competency:
+  ID: R14
+  name: Resilience Through Automation
+  description: Identify processes for AI automation to build resilience
+  category: RESILIENCE
+  ksa: SKILL
+  proficiency: INTERMEDIATE
+  heRelevance: LOW
+  smeRelevance: HIGH
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - AIM-PRO
+
+Competency:
+  ID: R15
+  name: AI Ethics in Entrepreneurship
+  description: Apply ethical frameworks in commercial AI deployment
+  category: RESILIENCE
+  ksa: SKILL
+  proficiency: INTERMEDIATE
+  heRelevance: HIGH
+  smeRelevance: MEDIUM
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - EntreComp
+    - UNESCO
+
+Competency:
+  ID: R16
+  name: AI Value Proposition Design
+  description: Create value propositions leveraging AI capabilities
+  category: RESILIENCE
+  ksa: SKILL
+  proficiency: ADVANCED
+  heRelevance: MEDIUM
+  smeRelevance: LOW
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - EntreComp
+    - AIM-PRO
+
+Competency:
+  ID: R17
+  name: Psychological Resilience
+  description: Develop coping for professional changes caused by AI
+  category: RESILIENCE
+  ksa: ATTITUDE
+  proficiency: FOUNDATION
+  heRelevance: HIGH
+  smeRelevance: HIGH
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - AIM-PRO
+
+Competency:
+  ID: R18
+  name: AI-Supported Decision Agility
+  description: Make rapid decisions using AI analytics
+  category: RESILIENCE
+  ksa: SKILL
+  proficiency: INTERMEDIATE
+  heRelevance: MEDIUM
+  smeRelevance: MEDIUM
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - EntreComp
+    - AIM-PRO
+
+Competency:
+  ID: R19
+  name: Stakeholder Engagement with AI
+  description: Communicate AI strategies to diverse stakeholders
+  category: RESILIENCE
+  ksa: SKILL
+  proficiency: INTERMEDIATE
+  heRelevance: MEDIUM
+  smeRelevance: MEDIUM
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - EntreComp
+
+Competency:
+  ID: R20
+  name: AI & Social Innovation
+  description: Apply AI for social good and community challenges
+  category: RESILIENCE
+  ksa: SKILL
+  proficiency: ADVANCED
+  heRelevance: HIGH
+  smeRelevance: MEDIUM
+  vetRelevance: MEDIUM
+  sourceFrameworks:
+    - EntreComp
+    - UNESCO
+
+Competency:
+  ID: R21
+  name: Financial Literacy for AI
+  description: Evaluate ROI and cost-benefit of AI implementations
+  category: RESILIENCE
+  ksa: KNOWLEDGE
+  proficiency: INTERMEDIATE
+  heRelevance: MEDIUM
+  smeRelevance: MEDIUM
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - EntreComp
+    - AIM-PRO
+
+Competency:
+  ID: R22
+  name: AI-Enabled Customer Insights
+  description: Use AI analytics to understand customer behavior
+  category: RESILIENCE
+  ksa: SKILL
+  proficiency: INTERMEDIATE
+  heRelevance: LOW
+  smeRelevance: MEDIUM
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - AIM-PRO
+
+Competency:
+  ID: R23
+  name: Regulatory Navigation for AI
+  description: Navigate regulatory frameworks affecting AI in business
+  category: RESILIENCE
+  ksa: KNOWLEDGE
+  proficiency: ADVANCED
+  heRelevance: MEDIUM
+  smeRelevance: MEDIUM
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - EU AI Act
+    - EntreComp
+Competency:
+  ID: R24
+  name: Community of Practice Building
+  description: Foster networks for sharing AI best practices
+  category: RESILIENCE
+  ksa: ATTITUDE
+  proficiency: INTERMEDIATE
+  heRelevance: HIGH
+  smeRelevance: HIGH
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - AIM-PRO
+    - EntreComp
+
+Competency:
+  ID: R25
+  name: Resilient AI Systems Design
+  description: Contribute to robust, fault-tolerant AI systems
+  category: RESILIENCE
+  ksa: SKILL
+  proficiency: ADVANCED
+  heRelevance: HIGH
+  smeRelevance: LOW
+  vetRelevance: MEDIUM
+  sourceFrameworks:
+    - AIM-PRO
+Competency:
+  ID: R26
+  name: AI-Powered Process Optimisation
+  description: Use AI to analyse, redesign and optimise professional or organisational processes with appropriate constraints and guardrails.
+  category: RESILIENCE
+  ksa: SKILL
+  proficiency: INTERMEDIATE
+  heRelevance: MEDIUM
+  smeRelevance: HIGH
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - USAL v3.1 / extended feedback
+
+Competency:
+  ID: R27
+  name: Human Agency and Oversight
+  description: Maintain meaningful human agency and oversight when AI systems support or automate decisions and actions.
+  category: RESILIENCE
+  ksa: SKILL
+  proficiency: ADVANCED
+  heRelevance: MEDIUM
+  smeRelevance: MEDIUM
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - USAL v3.1 / EU AI Act Art. 14 anchor
+
+Competency:
+  ID: T01
+  name: Neural Network Architecture
+  description: Understand structure of neural networks and deep learning
+  category: DEEP_TECH
+  ksa: KNOWLEDGE
+  proficiency: FOUNDATION
+  heRelevance: HIGH
+  smeRelevance: MEDIUM
+  vetRelevance: LOW
+  sourceFrameworks:
+    - UNESCO
+    - L&M
+
+Competency:
+  ID: T02
+  name: Deep Learning Frameworks
+  description: Use TensorFlow, PyTorch for AI model development
+  category: DEEP_TECH
+  ksa: SKILL
+  proficiency: INTERMEDIATE
+  heRelevance: HIGH
+  smeRelevance: MEDIUM
+  vetRelevance: MEDIUM
+  sourceFrameworks:
+    - AIM-PRO
+Competency:
+  ID: T03
+  name: NLP Engineering
+  description: Develop and fine-tune NLP models and applications
+  category: DEEP_TECH
+  ksa: SKILL
+  proficiency: ADVANCED
+  heRelevance: HIGH
+  smeRelevance: LOW
+  vetRelevance: MEDIUM
+  sourceFrameworks:
+    - AIM-PRO
+
+Competency:
+  ID: T04
+  name: Computer Vision Development
+  description: Build and deploy computer vision systems
+  category: DEEP_TECH
+  ksa: SKILL
+  proficiency: ADVANCED
+  heRelevance: HIGH
+  smeRelevance: LOW
+  vetRelevance: MEDIUM
+  sourceFrameworks:
+    - AIM-PRO
+
+Competency:
+  ID: T05
+  name: Reinforcement Learning
+  description: Apply RL principles to decision-making systems
+  category: DEEP_TECH
+  ksa: KNOWLEDGE
+  proficiency: ADVANCED
+  heRelevance: HIGH
+  smeRelevance: LOW
+  vetRelevance: LOW
+  sourceFrameworks:
+    - AIM-PRO
+
+Competency:
+  ID: T06
+  name: AI Algorithm Design
+  description: Design algorithms for classification, regression, clustering
+  category: DEEP_TECH
+  ksa: SKILL
+  proficiency: INTERMEDIATE
+  heRelevance: HIGH
+  smeRelevance: MEDIUM
+  vetRelevance: MEDIUM
+  sourceFrameworks:
+    - UNESCO
+    - AIM-PRO
+
+Competency:
+  ID: T07
+  name: Model-Driven Engineering for AI
+  description: Apply MDE to AI system development and educational tools
+  category: DEEP_TECH
+  ksa: SKILL
+  proficiency: ADVANCED
+  heRelevance: HIGH
+  smeRelevance: LOW
+  vetRelevance: MEDIUM
+  sourceFrameworks:
+    - AIM-PRO
+
+Competency:
+  ID: T08
+  name: AI & Software Integration
+  description: Integrate AI into software engineering workflows
+  category: DEEP_TECH
+  ksa: SKILL
+  proficiency: INTERMEDIATE
+  heRelevance: HIGH
+  smeRelevance: MEDIUM
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - AIM-PRO
+
+Competency:
+  ID: T09
+  name: Data Engineering for AI
+  description: Build data pipelines for AI training and deployment
+  category: DEEP_TECH
+  ksa: SKILL
+  proficiency: INTERMEDIATE
+  heRelevance: HIGH
+  smeRelevance: MEDIUM
+  vetRelevance: MEDIUM
+  sourceFrameworks:
+    - AIM-PRO
+
+Competency:
+  ID: T10
+  name: AI Model Evaluation
+  description: Apply evaluation metrics and validation techniques
+  category: DEEP_TECH
+  ksa: SKILL
+  proficiency: INTERMEDIATE
+  heRelevance: HIGH
+  smeRelevance: MEDIUM
+  vetRelevance: MEDIUM
+  sourceFrameworks:
+    - UNESCO
+    - AIM-PRO
+
+Competency:
+  ID: T11
+  name: Transfer Learning & Fine-tuning
+  description: Adapt pre-trained models to domain tasks
+  category: DEEP_TECH
+  ksa: SKILL
+  proficiency: ADVANCED
+  heRelevance: HIGH
+  smeRelevance: LOW
+  vetRelevance: MEDIUM
+  sourceFrameworks:
+    - AIM-PRO
+
+Competency:
+  ID: T12
+  name: Generative AI Architecture
+  description: Understand transformers, diffusion models, generative approaches
+  category: DEEP_TECH
+  ksa: KNOWLEDGE
+  proficiency: ADVANCED
+  heRelevance: HIGH
+  smeRelevance: LOW
+  vetRelevance: LOW
+  sourceFrameworks:
+    - AIM-PRO
+
+Competency:
+  ID: T13
+  name: AI Systems Deployment
+  description: Deploy AI in production with monitoring and maintenance
+  category: DEEP_TECH
+  ksa: SKILL
+  proficiency: ADVANCED
+  heRelevance: HIGH
+  smeRelevance: MEDIUM
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - AIM-PRO
+
+Competency:
+  ID: T14
+  name: MLOps & Lifecycle Management
+  description: Apply DevOps principles to ML lifecycle
+  category: DEEP_TECH
+  ksa: SKILL
+  proficiency: ADVANCED
+  heRelevance: HIGH
+  smeRelevance: LOW
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - AIM-PRO
+
+Competency:
+  ID: T15
+  name: Digital Twin Engineering
+  description: Design digital twins using AI for educational purposes
+  category: DEEP_TECH
+  ksa: SKILL
+  proficiency: ADVANCED
+  heRelevance: HIGH
+  smeRelevance: LOW
+  vetRelevance: MEDIUM
+  sourceFrameworks:
+    - AIM-PRO
+
+Competency:
+  ID: T16
+  name: AI Programming Proficiency
+  description: Write Python code with AI/ML libraries
+  category: DEEP_TECH
+  ksa: SKILL
+  proficiency: INTERMEDIATE
+  heRelevance: HIGH
+  smeRelevance: HIGH
+  vetRelevance: MEDIUM
+  sourceFrameworks:
+    - UNESCO
+    - AIM-PRO
+
+Competency:
+  ID: T17
+  name: Statistical Foundations for AI
+  description: Apply probability, inference, Bayesian reasoning to AI
+  category: DEEP_TECH
+  ksa: KNOWLEDGE
+  proficiency: FOUNDATION
+  heRelevance: HIGH
+  smeRelevance: MEDIUM
+  vetRelevance: LOW
+  sourceFrameworks:
+    - UNESCO
+    - L&M
+
+Competency:
+  ID: T18
+  name: Explainable AI (XAI)
+  description: Implement techniques making AI decisions interpretable
+  category: DEEP_TECH
+  ksa: SKILL
+  proficiency: ADVANCED
+  heRelevance: HIGH
+  smeRelevance: LOW
+  vetRelevance: MEDIUM
+  sourceFrameworks:
+    - EU AI Act
+    - AIM-PRO
+
+Competency:
+  ID: T19
+  name: Edge AI & IoT Integration
+  description: Deploy AI on edge devices and IoT ecosystems
+  category: DEEP_TECH
+  ksa: SKILL
+  proficiency: ADVANCED
+  heRelevance: HIGH
+  smeRelevance: MEDIUM
+  vetRelevance: MEDIUM
+  sourceFrameworks:
+    - DigComp
+    - AIM-PRO
+Competency:
+  ID: T20
+  name: AI Benchmarking
+  description: Compare AI solutions against established standards
+  category: DEEP_TECH
+  ksa: SKILL
+  proficiency: INTERMEDIATE
+  heRelevance: HIGH
+  smeRelevance: MEDIUM
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - AIM-PRO
+
+Competency:
+  ID: T21
+  name: Bias Detection & Mitigation
+  description: Identify and address bias in data and model outputs
+  category: DEEP_TECH
+  ksa: SKILL
+  proficiency: INTERMEDIATE
+  heRelevance: HIGH
+  smeRelevance: MEDIUM
+  vetRelevance: MEDIUM
+  sourceFrameworks:
+    - UNESCO
+    - OECD
+
+Competency:
+  ID: T22
+  name: Responsible AI Development
+  description: Apply fairness, accountability, transparency in AI dev
+  category: DEEP_TECH
+  ksa: SKILL
+  proficiency: FOUNDATION
+  heRelevance: HIGH
+  smeRelevance: HIGH
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - UNESCO
+    - OECD
+    - EU AI Act
+
+Competency:
+  ID: T23
+  name: AI Research Methodology
+  description: Conduct systematic research on AI topics
+  category: DEEP_TECH
+  ksa: SKILL
+  proficiency: ADVANCED
+  heRelevance: HIGH
+  smeRelevance: LOW
+  vetRelevance: LOW
+  sourceFrameworks:
+    - AIM-PRO
+
+Competency:
+  ID: T24
+  name: Domain-Specific AI Applications
+  description: Develop AI solutions tailored to specific sectors
+  category: DEEP_TECH
+  ksa: SKILL
+  proficiency: ADVANCED
+  heRelevance: HIGH
+  smeRelevance: MEDIUM
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - AIM-PRO
+
+Competency:
+  ID: T25
+  name: Advanced AI Problem Formulation
+  description: Formalize complex problems into AI-solvable models
+  category: DEEP_TECH
+  ksa: SKILL
+  proficiency: ADVANCED
+  heRelevance: HIGH
+  smeRelevance: LOW
+  vetRelevance: MEDIUM
+  sourceFrameworks:
+    - UNESCO
+    - AIM-PRO
+
+Competency:
+  ID: T26
+  name: End-to-End AI Project Lifecycle
+  description: Apply the AI project lifecycle from problem framing through data, training/adaptation, evaluation, deployment, monitoring and review.
+  category: DEEP_TECH
+  ksa: SKILL
+  proficiency: INTERMEDIATE
+  heRelevance: HIGH
+  smeRelevance: MEDIUM
+  vetRelevance: HIGH
+  sourceFrameworks:
+    - USAL v3.0 / UPM review / AIM-PRO
+
+# ---------------------- Competency Clusters ----------------------
+
+CompetencyCluster:
+  ID: P1
+  name: AI landscape and terminology
+  ownedCompetencies:
+    - D01
+    - D02
+    - R09
+    - T01
+    - T05
+    - T12
+
+CompetencyCluster:
+  ID: P2
+  name: Task framing, suitability and human role 
+  ownedCompetencies:
+    - D06
+    - D07
+    - D10
+    - R11
+    - R18
+    - T06
+    - T25
+    - D09
+    - D25
+    - G03
+    - R01
+    - R07
+    - R12
+    - R16
+    - T24
+    - D22
+    - D24
+    - D01
+
+CompetencyCluster:
+  ID: P3
+  name: AI project lifecycle
+  ownedCompetencies:
+    - G04
+    - T07
+    - T13
+    - T14
+    - T19
+    - T26
+    - T11
+    - T10
+    - D03
+    - T09
+    - D06
+    - T06
+    - T25
+    - D26
+    - G05
+    - G08
+    - G10
+    - G15
+    - G22
+    - T02
+    - T08
+    - T15
+    - T16
+    - T22
+    - D02
+
+CompetencyCluster:
+  ID: P4
+  name: Data quality, provenance and labelling 
+  ownedCompetencies:
+    - D03
+    - G09
+    - T09
+    - T26
+    - D16
+
+CompetencyCluster:
+  ID: P5
+  name: Leakage, imbalance and drift 
+  ownedCompetencies:
+    - T17
+    - R25
+    - T21
+
+CompetencyCluster:
+  ID: P6
+  name: Evaluation, thresholds and decision costs 
+  ownedCompetencies:
+    - D05
+    - T10
+    - T17
+    - T20
+    - D15
+    - T26
+    - D07
+    - R18
+    - R22
+    - D12
+    - R03
+    - T18
+    - T21
+    - D02
+
+CompetencyCluster:
+  ID: P7
+  name: GenAI and LLM foundations 
+  ownedCompetencies:
+    - D08
+    - D13
+    - D14
+    - T01
+    - T03
+    - T04
+    - T11
+    - T12
+    - D04
+
+CompetencyCluster:
+  ID: P8
+  name: Prompting and multimodal structured use 
+  ownedCompetencies:
+    - D04
+    - D11
+    - D21
+    - D08
+    - D13
+    - D14
+    - D25
+    - R19
+
+CompetencyCluster:
+  ID: P9
+  name: Grounding, RAG, citations and evaluation 
+  ownedCompetencies:
+    - D15
+    - T23
+    - D08
+    - D05
+
+CompetencyCluster:
+  ID: P10
+  name: Responsible, legal and secure AI 
+  ownedCompetencies:
+    - D12
+    - D16
+    - D17
+    - D19
+    - D22
+    - D24
+    - G01
+    - G07
+    - G11
+    - G13
+    - G17
+    - G19
+    - G20
+    - R03
+    - R15
+    - R23
+    - R27
+    - T18
+    - T21
+    - T22
+    - D15
+    - D05
+    - G04
+    - D10
+    - G23
+    - G25
+    - R17
+    - R25
+    - D18
+    - G03
+    - G06
+    - G16
+    - G18
+    - G21
+    - G24
+    - R20
+
+CompetencyCluster:
+  ID: P11
+  name: Professional AI workflows and guardrailed automation 
+  ownedCompetencies:
+    - D09
+    - D18
+    - D23
+    - D25
+    - D26
+    - G02
+    - G03
+    - G05
+    - G06
+    - G08
+    - G10
+    - G12
+    - G14
+    - G15
+    - G16
+    - G18
+    - G21
+    - G22
+    - G24
+    - R01
+    - R04
+    - R06
+    - R07
+    - R10
+    - R12
+    - R13
+    - R14
+    - R16
+    - R19
+    - R20
+    - R21
+    - R22
+    - R26
+    - T02
+    - T08
+    - T15
+    - T16
+    - T24
+    - T23
+    - D11
+    - D21
+    - T03
+    - T04
+    - T20
+    - G09
+    - T19
+    - D07
+    - R11
+    - R18
+    - D27
+    - R02
+    - R05
+    - R08
+    - R24
+    - G20
+    - R03
+    - R15
+    - R23
+
+CompetencyCluster:
+  ID: P12
+  name: AI agents, orchestration and operating model 
+  ownedCompetencies:
+    - D27
+    - G23
+    - G25
+    - R02
+    - R05
+    - R08
+    - R09
+    - R17
+    - R24
+    - R25
+    - T05
+    - G04
+    - T07
+    - T13
+    - T14
+    - T19
+    - D10
+    - D09
+    - D23
+    - D26
+    - G02
+    - G12
+    - G14
+    - G18
+    - G21
+    - R04
+    - R06
+    - R10
+    - R14
+    - R21
+    - R26
+    - D17
+    - D19
+    - D24
+    - G01
+    - G07
+    - G11
+    - G13
+    - G17
+    - G19
+    - R27
