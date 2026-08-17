@@ -1,0 +1,1455 @@
+do
+create instance of Competency "D01"
+set D01.ID = "D01"
+set D01.title = "AI Concept Understanding" 
+set D01.description = "Comprehend what AI is, its types, and how it differs from traditional software" 
+set D01.category = "DIGITAL" 
+set D01.ksa = "KNOWLEDGE" 
+set D01.proficiency = "FOUNDATION" 
+set D01.heRelevance = "HIGH" 
+set D01.smeRelevance = "HIGH" 
+set D01.vetRelevance = "HIGH"
+set D01.sourceFrameworks = "DigComp, OECD, UNESCO, L&M"
+end
+
+do
+create instance of Competency "D02"
+set D02.ID = "D02"
+set D02.title = "Machine Learning Fundamentals" 
+set D02.description = "Understand supervised, unsupervised, and reinforcement learning paradigms" 
+set D02.category = "DIGITAL" 
+set D02.ksa = "KNOWLEDGE" 
+set D02.proficiency = "FOUNDATION" 
+set D02.heRelevance = "HIGH" 
+set D02.smeRelevance = "LOW" 
+set D02.vetRelevance = "MEDIUM"
+set D02.sourceFrameworks = "UNESCO, OECD, L&M"
+end
+
+do
+create instance of Competency "D03"
+set D03.ID = "D03"
+set D03.title = "Data Literacy for AI" 
+set D03.description = "Collect, curate, label, and evaluate data quality for AI training" 
+set D03.category = "DIGITAL" 
+set D03.ksa = "SKILL" 
+set D03.proficiency = "FOUNDATION" 
+set D03.heRelevance = "HIGH" 
+set D03.smeRelevance = "MEDIUM" 
+set D03.vetRelevance = "HIGH"
+set D03.sourceFrameworks = "DigComp, OECD, UNESCO"
+end
+
+do
+create instance of Competency "D04"
+set D04.ID = "D04"
+set D04.title = "AI Interaction & Prompting" 
+set D04.description = "Effectively interact with AI systems through prompt engineering" 
+set D04.category = "DIGITAL" 
+set D04.ksa = "SKILL" 
+set D04.proficiency = "FOUNDATION" 
+set D04.heRelevance = "HIGH" 
+set D04.smeRelevance = "HIGH" 
+set D04.vetRelevance = "HIGH"
+set D04.sourceFrameworks = "OECD, DigPromise"
+end
+
+do
+create instance of Competency "D05"
+set D05.ID = "D05"
+set D05.title = "AI Output Evaluation" 
+set D05.description = "Critically assess AI-generated content for accuracy, bias, and reliability" 
+set D05.category = "DIGITAL" 
+set D05.ksa = "SKILL" 
+set D05.proficiency = "INTERMEDIATE" 
+set D05.heRelevance = "HIGH" 
+set D05.smeRelevance = "HIGH" 
+set D05.vetRelevance = "HIGH"
+set D05.sourceFrameworks = "OECD, DigComp, UNESCO"
+end
+
+do
+create instance of Competency "D06"
+set D06.ID = "D06"
+set D06.title = "Algorithmic Thinking" 
+set D06.description = "Decompose problems into steps suitable for AI-assisted solutions" 
+set D06.category = "DIGITAL" 
+set D06.ksa = "SKILL" 
+set D06.proficiency = "FOUNDATION" 
+set D06.heRelevance = "HIGH" 
+set D06.smeRelevance = "MEDIUM" 
+set D06.vetRelevance = "MEDIUM"
+set D06.sourceFrameworks = "OECD, DigPromise, L&M"
+end
+
+do
+create instance of Competency "D07"
+set D07.ID = "D07"
+set D07.title = "AI-Augmented Decision Making" 
+set D07.description = "Integrate AI insights with human judgment for informed decisions" 
+set D07.category = "DIGITAL" 
+set D07.ksa = "SKILL" 
+set D07.proficiency = "INTERMEDIATE" 
+set D07.heRelevance = "HIGH" 
+set D07.smeRelevance = "HIGH" 
+set D07.vetRelevance = "MEDIUM"
+set D07.sourceFrameworks = "OECD, DigComp"
+end
+
+do
+create instance of Competency "D08"
+set D08.ID = "D08"
+set D08.title = "Generative AI Literacy" 
+set D08.description = "Understand capabilities and limitations of generative AI models" 
+set D08.category = "DIGITAL" 
+set D08.ksa = "KNOWLEDGE" 
+set D08.proficiency = "INTERMEDIATE" 
+set D08.heRelevance = "HIGH" 
+set D08.smeRelevance = "HIGH" 
+set D08.vetRelevance = "HIGH"
+set D08.sourceFrameworks = "OECD, AIM-PRO"
+end
+
+do
+create instance of Competency "D09"
+set D09.ID = "D09"
+set D09.title = "AI Tools Selection" 
+set D09.description = "Identify and select appropriate AI tools for specific tasks" 
+set D09.category = "DIGITAL" 
+set D09.ksa = "SKILL" 
+set D09.proficiency = "INTERMEDIATE" 
+set D09.heRelevance = "MEDIUM" 
+set D09.smeRelevance = "HIGH" 
+set D09.vetRelevance = "HIGH"
+set D09.sourceFrameworks = "OECD, DigComp"
+end
+
+do
+create instance of Competency "D10"
+set D10.ID = "D10"
+set D10.title = "Human-AI Collaboration" 
+set D10.description = "Distribute tasks between humans and AI based on respective strengths" 
+set D10.category = "DIGITAL" 
+set D10.ksa = "SKILL" 
+set D10.proficiency = "INTERMEDIATE" 
+set D10.heRelevance = "HIGH" 
+set D10.smeRelevance = "HIGH" 
+set D10.vetRelevance = "MEDIUM"
+set D10.sourceFrameworks = "OECD, DigPromise"
+end
+
+do
+create instance of Competency "D11"
+set D11.ID = "D11"
+set D11.title = "Digital Content Co-creation" 
+set D11.description = "Collaborate with AI to produce and enhance digital content" 
+set D11.category = "DIGITAL" 
+set D11.ksa = "SKILL" 
+set D11.proficiency = "INTERMEDIATE" 
+set D11.heRelevance = "HIGH" 
+set D11.smeRelevance = "HIGH" 
+set D11.vetRelevance = "HIGH"
+set D11.sourceFrameworks = "OECD, DigComp"
+end
+
+do
+create instance of Competency "D12"
+set D12.ID = "D12"
+set D12.title = "AI System Transparency" 
+set D12.description = "Evaluate explainability and transparency of AI systems" 
+set D12.category = "DIGITAL" 
+set D12.ksa = "KNOWLEDGE" 
+set D12.proficiency = "ADVANCED" 
+set D12.heRelevance = "HIGH" 
+set D12.smeRelevance = "MEDIUM" 
+set D12.vetRelevance = "LOW"
+set D12.sourceFrameworks = "UNESCO, EU AI Act"
+end
+
+do
+create instance of Competency "D13"
+set D13.ID = "D13"
+set D13.title = "NLP Awareness" 
+set D13.description = "Understand how AI processes and generates human language" 
+set D13.category = "DIGITAL" 
+set D13.ksa = "KNOWLEDGE" 
+set D13.proficiency = "INTERMEDIATE" 
+set D13.heRelevance = "HIGH" 
+set D13.smeRelevance = "MEDIUM" 
+set D13.vetRelevance = "MEDIUM"
+set D13.sourceFrameworks = "L&M, UNESCO"
+end
+
+do
+create instance of Competency "D14"
+set D14.ID = "D14"
+set D14.title = "Computer Vision Awareness" 
+set D14.description = "Recognize AI applications in image recognition and generation" 
+set D14.category = "DIGITAL" 
+set D14.ksa = "KNOWLEDGE" 
+set D14.proficiency = "INTERMEDIATE" 
+set D14.heRelevance = "HIGH" 
+set D14.smeRelevance = "MEDIUM" 
+set D14.vetRelevance = "MEDIUM"
+set D14.sourceFrameworks = "L&M, UNESCO"
+end
+
+do
+create instance of Competency "D15"
+set D15.ID = "D15"
+set D15.title = "AI & Information Verification" 
+set D15.description = "Use AI and critical thinking to detect mis/disinformation" 
+set D15.category = "DIGITAL" 
+set D15.ksa = "SKILL" 
+set D15.proficiency = "INTERMEDIATE" 
+set D15.heRelevance = "HIGH" 
+set D15.smeRelevance = "HIGH" 
+set D15.vetRelevance = "HIGH"
+set D15.sourceFrameworks = "DigComp, OECD"
+end
+
+do
+create instance of Competency "D16"
+set D16.ID = "D16"
+set D16.title = "Data Privacy in AI Contexts" 
+set D16.description = "Apply data protection principles when using AI systems" 
+set D16.category = "DIGITAL" 
+set D16.ksa = "SKILL" 
+set D16.proficiency = "FOUNDATION" 
+set D16.heRelevance = "HIGH" 
+set D16.smeRelevance = "HIGH" 
+set D16.vetRelevance = "HIGH"
+set D16.sourceFrameworks = "DigComp, EU AI Act"
+end
+
+do
+create instance of Competency "D17"
+set D17.ID = "D17"
+set D17.title = "AI Safety & Security" 
+set D17.description = "Recognize cybersecurity risks associated with AI deployment" 
+set D17.category = "DIGITAL" 
+set D17.ksa = "KNOWLEDGE" 
+set D17.proficiency = "INTERMEDIATE" 
+set D17.heRelevance = "MEDIUM" 
+set D17.smeRelevance = "HIGH" 
+set D17.vetRelevance = "HIGH"
+set D17.sourceFrameworks = "DigComp, EU AI Act"
+end
+
+do
+create instance of Competency "D18"
+set D18.ID = "D18"
+set D18.title = "AI & Accessibility" 
+set D18.description = "Leverage AI for inclusive and accessible digital experiences" 
+set D18.category = "DIGITAL" 
+set D18.ksa = "SKILL" 
+set D18.proficiency = "ADVANCED" 
+set D18.heRelevance = "HIGH" 
+set D18.smeRelevance = "MEDIUM" 
+set D18.vetRelevance = "MEDIUM"
+set D18.sourceFrameworks = "DigComp"
+end
+
+do
+create instance of Competency "D19"
+set D19.ID = "D19"
+set D19.title = "AI Regulatory Awareness" 
+set D19.description = "Understand EU AI Act risk classification and compliance" 
+set D19.category = "DIGITAL" 
+set D19.ksa = "KNOWLEDGE" 
+set D19.proficiency = "INTERMEDIATE" 
+set D19.heRelevance = "MEDIUM" 
+set D19.smeRelevance = "HIGH" 
+set D19.vetRelevance = "MEDIUM"
+set D19.sourceFrameworks = "EU AI Act, AIM-PRO"
+end
+
+do
+create instance of Competency "D21"
+set D21.ID = "D21"
+set D21.title = "AI-Enhanced Communication" 
+set D21.description = "Use AI to improve communication across languages and formats" 
+set D21.category = "DIGITAL" 
+set D21.ksa = "SKILL" 
+set D21.proficiency = "INTERMEDIATE" 
+set D21.heRelevance = "MEDIUM" 
+set D21.smeRelevance = "HIGH" 
+set D21.vetRelevance = "HIGH"
+set D21.sourceFrameworks = "DigComp, OECD"
+end
+
+do
+create instance of Competency "D22"
+set D22.ID = "D22"
+set D22.title = "Responsible AI Use Mindset" 
+set D22.description = "Adopt human-centered approach prioritizing ethics in AI usage" 
+set D22.category = "DIGITAL" 
+set D22.ksa = "ATTITUDE" 
+set D22.proficiency = "FOUNDATION" 
+set D22.heRelevance = "HIGH" 
+set D22.smeRelevance = "HIGH" 
+set D22.vetRelevance = "HIGH"
+set D22.sourceFrameworks = "UNESCO, OECD, DigComp"
+end
+
+do
+create instance of Competency "D23"
+set D23.ID = "D23"
+set D23.title = "AI Workflow Integration" 
+set D23.description = "Embed AI tools into professional and educational workflows" 
+set D23.category = "DIGITAL" 
+set D23.ksa = "SKILL" 
+set D23.proficiency = "ADVANCED" 
+set D23.heRelevance = "MEDIUM" 
+set D23.smeRelevance = "HIGH" 
+set D23.vetRelevance = "HIGH"
+set D23.sourceFrameworks = "OECD, AIM-PRO"
+end
+
+do
+create instance of Competency "D24"
+set D24.ID = "D24"
+set D24.title = "AI Impact Assessment" 
+set D24.description = "Evaluate societal, economic, and personal impact of AI" 
+set D24.category = "DIGITAL" 
+set D24.ksa = "KNOWLEDGE" 
+set D24.proficiency = "ADVANCED" 
+set D24.heRelevance = "HIGH" 
+set D24.smeRelevance = "MEDIUM" 
+set D24.vetRelevance = "MEDIUM"
+set D24.sourceFrameworks = "UNESCO, DigComp, OECD"
+end
+
+do
+create instance of Competency "D25"
+set D25.ID = "D25"
+set D25.title = "AI & Creative Problem Solving" 
+set D25.description = "Apply AI as a catalyst for innovative approaches to problems" 
+set D25.category = "DIGITAL" 
+set D25.ksa = "SKILL" 
+set D25.proficiency = "ADVANCED" 
+set D25.heRelevance = "HIGH" 
+set D25.smeRelevance = "HIGH" 
+set D25.vetRelevance = "MEDIUM"
+set D25.sourceFrameworks = "OECD, DigPromise"
+end
+
+do
+create instance of Competency "D26"
+set D26.ID = "D26"
+set D26.title = "AI-Assisted Coding" 
+set D26.description = "Use AI coding assistants appropriately to generate, review, explain or adapt code while applying verification and guardrails." 
+set D26.category = "DIGITAL" 
+set D26.ksa = "SKILL" 
+set D26.proficiency = "INTERMEDIATE" 
+set D26.heRelevance = "HIGH" 
+set D26.smeRelevance = "HIGH" 
+set D26.vetRelevance = "HIGH"
+set D26.sourceFrameworks = "USAL v3.1 / extended feedback"
+end
+
+do
+create instance of Competency "D27"
+set D27.ID = "D27"
+set D27.title = "Working with AI Agents" 
+set D27.description = "Work with agentic AI systems by understanding goals, tools, handoffs, traces, limitations and human oversight requirements." 
+set D27.category = "DIGITAL" 
+set D27.ksa = "SKILL" 
+set D27.proficiency = "INTERMEDIATE" 
+set D27.heRelevance = "HIGH" 
+set D27.smeRelevance = "HIGH" 
+set D27.vetRelevance = "MEDIUM"
+set D27.sourceFrameworks = "USAL v3.1 / extended feedback"
+end
+
+do
+create instance of Competency "G01"
+set G01.ID = "G01"
+set G01.title = "AI Environmental Footprint" 
+set G01.description = "Understand energy consumption and carbon emissions of AI" 
+set G01.category = "GREEN" 
+set G01.ksa = "KNOWLEDGE" 
+set G01.proficiency = "FOUNDATION" 
+set G01.heRelevance = "HIGH" 
+set G01.smeRelevance = "HIGH" 
+set G01.vetRelevance = "HIGH"
+set G01.sourceFrameworks = "GreenComp, DigComp, AIM-PRO"
+end
+
+do
+create instance of Competency "G02"
+set G02.ID = "G02"
+set G02.title = "Green Computing Principles" 
+set G02.description = "Apply energy-efficient computing in AI activities" 
+set G02.category = "GREEN" 
+set G02.ksa = "SKILL" 
+set G02.proficiency = "FOUNDATION" 
+set G02.heRelevance = "HIGH" 
+set G02.smeRelevance = "MEDIUM" 
+set G02.vetRelevance = "HIGH"
+set G02.sourceFrameworks = "GreenComp, AIM-PRO"
+end
+
+do
+create instance of Competency "G03"
+set G03.ID = "G03"
+set G03.title = "Sustainable AI Model Selection" 
+set G03.description = "Choose AI models that minimize environmental impact" 
+set G03.category = "GREEN" 
+set G03.ksa = "SKILL" 
+set G03.proficiency = "INTERMEDIATE" 
+set G03.heRelevance = "HIGH" 
+set G03.smeRelevance = "HIGH" 
+set G03.vetRelevance = "MEDIUM"
+set G03.sourceFrameworks = "AIM-PRO, GreenComp"
+end
+
+do
+create instance of Competency "G04"
+set G04.ID = "G04"
+set G04.title = "AI Lifecycle Sustainability" 
+set G04.description = "Assess environmental impact across full AI lifecycle" 
+set G04.category = "GREEN" 
+set G04.ksa = "KNOWLEDGE" 
+set G04.proficiency = "INTERMEDIATE" 
+set G04.heRelevance = "HIGH" 
+set G04.smeRelevance = "MEDIUM" 
+set G04.vetRelevance = "MEDIUM"
+set G04.sourceFrameworks = "GreenComp, AIM-PRO"
+end
+
+do
+create instance of Competency "G05"
+set G05.ID = "G05"
+set G05.title = "Green Software for AI" 
+set G05.description = "Apply green software development principles to AI apps" 
+set G05.category = "GREEN" 
+set G05.ksa = "SKILL" 
+set G05.proficiency = "ADVANCED" 
+set G05.heRelevance = "HIGH" 
+set G05.smeRelevance = "MEDIUM" 
+set G05.vetRelevance = "LOW"
+set G05.sourceFrameworks = "Green SW Foundation, AIM-PRO"
+end
+
+do
+create instance of Competency "G06"
+set G06.ID = "G06"
+set G06.title = "Carbon Footprint Measurement" 
+set G06.description = "Measure and report carbon emissions from AI usage" 
+set G06.category = "GREEN" 
+set G06.ksa = "SKILL" 
+set G06.proficiency = "INTERMEDIATE" 
+set G06.heRelevance = "HIGH" 
+set G06.smeRelevance = "HIGH" 
+set G06.vetRelevance = "MEDIUM"
+set G06.sourceFrameworks = "GreenComp, AIM-PRO"
+end
+
+do
+create instance of Competency "G07"
+set G07.ID = "G07"
+set G07.title = "Renewable Energy for AI" 
+set G07.description = "Understand role of renewable energy in AI infrastructure" 
+set G07.category = "GREEN" 
+set G07.ksa = "KNOWLEDGE" 
+set G07.proficiency = "INTERMEDIATE" 
+set G07.heRelevance = "HIGH" 
+set G07.smeRelevance = "MEDIUM" 
+set G07.vetRelevance = "MEDIUM"
+set G07.sourceFrameworks = "GreenComp"
+end
+
+do
+create instance of Competency "G08"
+set G08.ID = "G08"
+set G08.title = "Model Compression & Optimization" 
+set G08.description = "Apply pruning, quantization, distillation to reduce resources" 
+set G08.category = "GREEN" 
+set G08.ksa = "SKILL" 
+set G08.proficiency = "ADVANCED" 
+set G08.heRelevance = "HIGH" 
+set G08.smeRelevance = "MEDIUM" 
+set G08.vetRelevance = "LOW"
+set G08.sourceFrameworks = "AIM-PRO (novel)"
+end
+
+do
+create instance of Competency "G09"
+set G09.ID = "G09"
+set G09.title = "Eco-friendly Data Management" 
+set G09.description = "Implement sustainable data storage and processing practices" 
+set G09.category = "GREEN" 
+set G09.ksa = "SKILL" 
+set G09.proficiency = "INTERMEDIATE" 
+set G09.heRelevance = "MEDIUM" 
+set G09.smeRelevance = "HIGH" 
+set G09.vetRelevance = "HIGH"
+set G09.sourceFrameworks = "DigComp, GreenComp"
+end
+
+do
+create instance of Competency "G10"
+set G10.ID = "G10"
+set G10.title = "AI for Environmental Monitoring" 
+set G10.description = "Use AI tools to monitor environmental challenges" 
+set G10.category = "GREEN" 
+set G10.ksa = "SKILL" 
+set G10.proficiency = "INTERMEDIATE" 
+set G10.heRelevance = "HIGH" 
+set G10.smeRelevance = "MEDIUM" 
+set G10.vetRelevance = "MEDIUM"
+set G10.sourceFrameworks = "GreenComp, AIM-PRO"
+end
+
+do
+create instance of Competency "G11"
+set G11.ID = "G11"
+set G11.title = "E-waste & Hardware Lifecycle" 
+set G11.description = "Understand environmental impact of device manufacturing/disposal" 
+set G11.category = "GREEN" 
+set G11.ksa = "KNOWLEDGE" 
+set G11.proficiency = "FOUNDATION" 
+set G11.heRelevance = "MEDIUM" 
+set G11.smeRelevance = "HIGH" 
+set G11.vetRelevance = "HIGH"
+set G11.sourceFrameworks = "DigComp, GreenComp"
+end
+
+do
+create instance of Competency "G12"
+set G12.ID = "G12"
+set G12.title = "Sustainable Digital Practices" 
+set G12.description = "Adopt daily digital behaviors reducing environmental impact" 
+set G12.category = "GREEN" 
+set G12.ksa = "ATTITUDE" 
+set G12.proficiency = "FOUNDATION" 
+set G12.heRelevance = "HIGH" 
+set G12.smeRelevance = "HIGH" 
+set G12.vetRelevance = "HIGH"
+set G12.sourceFrameworks = "DigComp, GreenComp"
+end
+
+do
+create instance of Competency "G13"
+set G13.ID = "G13"
+set G13.title = "GreenComp Alignment" 
+set G13.description = "Connect AI sustainability to EU GreenComp framework" 
+set G13.category = "GREEN" 
+set G13.ksa = "KNOWLEDGE" 
+set G13.proficiency = "INTERMEDIATE" 
+set G13.heRelevance = "HIGH" 
+set G13.smeRelevance = "MEDIUM" 
+set G13.vetRelevance = "MEDIUM"
+set G13.sourceFrameworks = "GreenComp, AIM-PRO"
+end
+
+do
+create instance of Competency "G14"
+set G14.ID = "G14"
+set G14.title = "Circular Economy & AI" 
+set G14.description = "Leverage AI to support circular economy principles" 
+set G14.category = "GREEN" 
+set G14.ksa = "SKILL" 
+set G14.proficiency = "ADVANCED" 
+set G14.heRelevance = "MEDIUM" 
+set G14.smeRelevance = "HIGH" 
+set G14.vetRelevance = "MEDIUM"
+set G14.sourceFrameworks = "GreenComp, AIM-PRO"
+end
+
+do
+create instance of Competency "G15"
+set G15.ID = "G15"
+set G15.title = "AI-Driven Energy Optimization" 
+set G15.description = "Use AI for energy management in organizations" 
+set G15.category = "GREEN" 
+set G15.ksa = "SKILL" 
+set G15.proficiency = "ADVANCED" 
+set G15.heRelevance = "MEDIUM" 
+set G15.smeRelevance = "HIGH" 
+set G15.vetRelevance = "MEDIUM"
+set G15.sourceFrameworks = "AIM-PRO"
+end
+
+do
+create instance of Competency "G16"
+set G16.ID = "G16"
+set G16.title = "Sustainability Impact Reporting" 
+set G16.description = "Communicate AI sustainability impact through reports" 
+set G16.category = "GREEN" 
+set G16.ksa = "SKILL" 
+set G16.proficiency = "INTERMEDIATE" 
+set G16.heRelevance = "MEDIUM" 
+set G16.smeRelevance = "HIGH" 
+set G16.vetRelevance = "MEDIUM"
+set G16.sourceFrameworks = "GreenComp, AIM-PRO"
+end
+
+do
+create instance of Competency "G17"
+set G17.ID = "G17"
+set G17.title = "Green AI Advocacy" 
+set G17.description = "Promote sustainable AI practices in communities" 
+set G17.category = "GREEN" 
+set G17.ksa = "ATTITUDE" 
+set G17.proficiency = "INTERMEDIATE" 
+set G17.heRelevance = "HIGH" 
+set G17.smeRelevance = "MEDIUM" 
+set G17.vetRelevance = "MEDIUM"
+set G17.sourceFrameworks = "GreenComp"
+end
+
+do
+create instance of Competency "G18"
+set G18.ID = "G18"
+set G18.title = "Responsible Cloud Computing" 
+set G18.description = "Select cloud services based on sustainability criteria" 
+set G18.category = "GREEN" 
+set G18.ksa = "SKILL" 
+set G18.proficiency = "INTERMEDIATE" 
+set G18.heRelevance = "MEDIUM" 
+set G18.smeRelevance = "HIGH" 
+set G18.vetRelevance = "MEDIUM"
+set G18.sourceFrameworks = "AIM-PRO, GreenComp"
+end
+
+do
+create instance of Competency "G19"
+set G19.ID = "G19"
+set G19.title = "Environmental Ethics in AI" 
+set G19.description = "Integrate environmental considerations into AI ethics" 
+set G19.category = "GREEN" 
+set G19.ksa = "ATTITUDE" 
+set G19.proficiency = "FOUNDATION" 
+set G19.heRelevance = "HIGH" 
+set G19.smeRelevance = "HIGH" 
+set G19.vetRelevance = "HIGH"
+set G19.sourceFrameworks = "GreenComp, UNESCO"
+end
+
+do
+create instance of Competency "G20"
+set G20.ID = "G20"
+set G20.title = "AI & Climate Action" 
+set G20.description = "Understand AI contribution to climate mitigation/adaptation" 
+set G20.category = "GREEN" 
+set G20.ksa = "KNOWLEDGE" 
+set G20.proficiency = "ADVANCED" 
+set G20.heRelevance = "HIGH" 
+set G20.smeRelevance = "MEDIUM" 
+set G20.vetRelevance = "MEDIUM"
+set G20.sourceFrameworks = "GreenComp"
+end
+
+do
+create instance of Competency "G21"
+set G21.ID = "G21"
+set G21.title = "Sustainable AI Procurement" 
+set G21.description = "Evaluate AI vendors using sustainability criteria" 
+set G21.category = "GREEN" 
+set G21.ksa = "SKILL" 
+set G21.proficiency = "ADVANCED" 
+set G21.heRelevance = "LOW" 
+set G21.smeRelevance = "HIGH" 
+set G21.vetRelevance = "MEDIUM"
+set G21.sourceFrameworks = "AIM-PRO (novel)"
+end
+
+do
+create instance of Competency "G22"
+set G22.ID = "G22"
+set G22.title = "Low-Carbon AI Deployment" 
+set G22.description = "Design AI deployment strategies minimizing emissions" 
+set G22.category = "GREEN" 
+set G22.ksa = "SKILL" 
+set G22.proficiency = "ADVANCED" 
+set G22.heRelevance = "MEDIUM" 
+set G22.smeRelevance = "HIGH" 
+set G22.vetRelevance = "LOW"
+set G22.sourceFrameworks = "AIM-PRO (novel)"
+end
+
+do
+create instance of Competency "G23"
+set G23.ID = "G23"
+set G23.title = "Digital Sobriety" 
+set G23.description = "Practice intentional and minimal use of digital resources" 
+set G23.category = "GREEN" 
+set G23.ksa = "ATTITUDE" 
+set G23.proficiency = "FOUNDATION" 
+set G23.heRelevance = "HIGH" 
+set G23.smeRelevance = "HIGH" 
+set G23.vetRelevance = "HIGH"
+set G23.sourceFrameworks = "GreenComp, DigComp"
+end
+
+do
+create instance of Competency "G24"
+set G24.ID = "G24"
+set G24.title = "AI & Biodiversity" 
+set G24.description = "Explore AI applications for biodiversity conservation" 
+set G24.category = "GREEN" 
+set G24.ksa = "KNOWLEDGE" 
+set G24.proficiency = "ADVANCED" 
+set G24.heRelevance = "HIGH" 
+set G24.smeRelevance = "LOW" 
+set G24.vetRelevance = "LOW"
+set G24.sourceFrameworks = "GreenComp"
+end
+
+do
+create instance of Competency "G25"
+set G25.ID = "G25"
+set G25.title = "Green AI Innovation Mindset" 
+set G25.description = "Cultivate disposition toward eco-conscious AI solutions" 
+set G25.category = "GREEN" 
+set G25.ksa = "ATTITUDE" 
+set G25.proficiency = "INTERMEDIATE" 
+set G25.heRelevance = "HIGH" 
+set G25.smeRelevance = "HIGH" 
+set G25.vetRelevance = "MEDIUM"
+set G25.sourceFrameworks = "GreenComp, AIM-PRO"
+end
+
+do
+create instance of Competency "R01"
+set R01.ID = "R01"
+set R01.title = "AI-Enhanced Opportunity Recognition" 
+set R01.description = "Use AI to identify business and professional opportunities" 
+set R01.category = "RESILIENCE" 
+set R01.ksa = "SKILL" 
+set R01.proficiency = "INTERMEDIATE" 
+set R01.heRelevance = "MEDIUM" 
+set R01.smeRelevance = "HIGH" 
+set R01.vetRelevance = "MEDIUM"
+set R01.sourceFrameworks = "EntreComp, AIM-PRO"
+end
+
+do
+create instance of Competency "R02"
+set R02.ID = "R02"
+set R02.title = "Adaptive AI Strategy" 
+set R02.description = "Adjust professional strategies in response to AI-driven changes" 
+set R02.category = "RESILIENCE" 
+set R02.ksa = "SKILL" 
+set R02.proficiency = "INTERMEDIATE" 
+set R02.heRelevance = "MEDIUM" 
+set R02.smeRelevance = "HIGH" 
+set R02.vetRelevance = "HIGH"
+set R02.sourceFrameworks = "EntreComp, AIM-PRO"
+end
+
+do
+create instance of Competency "R03"
+set R03.ID = "R03"
+set R03.title = "AI-Informed Risk Assessment" 
+set R03.description = "Leverage AI for data-driven risk identification" 
+set R03.category = "RESILIENCE" 
+set R03.ksa = "SKILL" 
+set R03.proficiency = "INTERMEDIATE" 
+set R03.heRelevance = "MEDIUM" 
+set R03.smeRelevance = "HIGH" 
+set R03.vetRelevance = "MEDIUM"
+set R03.sourceFrameworks = "EntreComp, AIM-PRO"
+end
+
+do
+create instance of Competency "R04"
+set R04.ID = "R04"
+set R04.title = "Entrepreneurial Mindset with AI" 
+set R04.description = "Combine entrepreneurial thinking with AI for innovation" 
+set R04.category = "RESILIENCE" 
+set R04.ksa = "ATTITUDE" 
+set R04.proficiency = "FOUNDATION" 
+set R04.heRelevance = "HIGH" 
+set R04.smeRelevance = "HIGH" 
+set R04.vetRelevance = "MEDIUM"
+set R04.sourceFrameworks = "EntreComp"
+end
+
+do
+create instance of Competency "R05"
+set R05.ID = "R05"
+set R05.title = "AI Change Management" 
+set R05.description = "Lead organizational transitions involving AI adoption" 
+set R05.category = "RESILIENCE" 
+set R05.ksa = "SKILL" 
+set R05.proficiency = "ADVANCED" 
+set R05.heRelevance = "MEDIUM" 
+set R05.smeRelevance = "HIGH" 
+set R05.vetRelevance = "MEDIUM"
+set R05.sourceFrameworks = "EntreComp, AIM-PRO"
+end
+
+do
+create instance of Competency "R06"
+set R06.ID = "R06"
+set R06.title = "Post-Crisis AI Recovery" 
+set R06.description = "Employ AI insights for recovery after disruptions" 
+set R06.category = "RESILIENCE" 
+set R06.ksa = "SKILL" 
+set R06.proficiency = "ADVANCED" 
+set R06.heRelevance = "LOW" 
+set R06.smeRelevance = "HIGH" 
+set R06.vetRelevance = "MEDIUM"
+set R06.sourceFrameworks = "AIM-PRO (novel)"
+end
+
+do
+create instance of Competency "R07"
+set R07.ID = "R07"
+set R07.title = "AI-Powered Business Modeling" 
+set R07.description = "Use AI to create, test, and refine business models" 
+set R07.category = "RESILIENCE" 
+set R07.ksa = "SKILL" 
+set R07.proficiency = "INTERMEDIATE" 
+set R07.heRelevance = "MEDIUM" 
+set R07.smeRelevance = "HIGH" 
+set R07.vetRelevance = "MEDIUM"
+set R07.sourceFrameworks = "EntreComp, AIM-PRO"
+end
+
+do
+create instance of Competency "R08"
+set R08.ID = "R08"
+set R08.title = "Digital Transformation Leadership" 
+set R08.description = "Guide teams through AI-driven digital transformation" 
+set R08.category = "RESILIENCE" 
+set R08.ksa = "SKILL" 
+set R08.proficiency = "ADVANCED" 
+set R08.heRelevance = "MEDIUM" 
+set R08.smeRelevance = "HIGH" 
+set R08.vetRelevance = "MEDIUM"
+set R08.sourceFrameworks = "EntreComp, AIM-PRO"
+end
+
+do
+create instance of Competency "R09"
+set R09.ID = "R09"
+set R09.title = "Growth Mindset for AI Era" 
+set R09.description = "Embrace continuous learning in evolving AI landscapes" 
+set R09.category = "RESILIENCE" 
+set R09.ksa = "ATTITUDE" 
+set R09.proficiency = "FOUNDATION" 
+set R09.heRelevance = "HIGH" 
+set R09.smeRelevance = "HIGH" 
+set R09.vetRelevance = "HIGH"
+set R09.sourceFrameworks = "EntreComp, DigComp, UNESCO"
+end
+
+do
+create instance of Competency "R10"
+set R10.ID = "R10"
+set R10.title = "AI & Innovation Management" 
+set R10.description = "Manage innovation processes integrating AI" 
+set R10.category = "RESILIENCE" 
+set R10.ksa = "SKILL" 
+set R10.proficiency = "ADVANCED" 
+set R10.heRelevance = "MEDIUM" 
+set R10.smeRelevance = "HIGH" 
+set R10.vetRelevance = "LOW"
+set R10.sourceFrameworks = "EntreComp, AIM-PRO"
+end
+
+do
+create instance of Competency "R11"
+set R11.ID = "R11"
+set R11.title = "Collaborative AI Problem Solving" 
+set R11.description = "Engage cross-functional teams to solve problems with AI" 
+set R11.category = "RESILIENCE" 
+set R11.ksa = "SKILL" 
+set R11.proficiency = "INTERMEDIATE" 
+set R11.heRelevance = "HIGH" 
+set R11.smeRelevance = "HIGH" 
+set R11.vetRelevance = "HIGH"
+set R11.sourceFrameworks = "OECD, EntreComp"
+end
+
+do
+create instance of Competency "R12"
+set R12.ID = "R12"
+set R12.title = "EntreComp-AI Alignment" 
+set R12.description = "Map AI competencies to EU EntreComp framework" 
+set R12.category = "RESILIENCE" 
+set R12.ksa = "KNOWLEDGE" 
+set R12.proficiency = "INTERMEDIATE" 
+set R12.heRelevance = "HIGH" 
+set R12.smeRelevance = "MEDIUM" 
+set R12.vetRelevance = "MEDIUM"
+set R12.sourceFrameworks = "EntreComp, AIM-PRO"
+end
+
+do
+create instance of Competency "R13"
+set R13.ID = "R13"
+set R13.title = "AI Market Analysis" 
+set R13.description = "Use AI for market research, competitor analysis, trends" 
+set R13.category = "RESILIENCE" 
+set R13.ksa = "SKILL" 
+set R13.proficiency = "INTERMEDIATE" 
+set R13.heRelevance = "MEDIUM" 
+set R13.smeRelevance = "HIGH" 
+set R13.vetRelevance = "MEDIUM"
+set R13.sourceFrameworks = "EntreComp, AIM-PRO"
+end
+
+do
+create instance of Competency "R14"
+set R14.ID = "R14"
+set R14.title = "Resilience Through Automation" 
+set R14.description = "Identify processes for AI automation to build resilience" 
+set R14.category = "RESILIENCE" 
+set R14.ksa = "SKILL" 
+set R14.proficiency = "INTERMEDIATE" 
+set R14.heRelevance = "LOW" 
+set R14.smeRelevance = "HIGH" 
+set R14.vetRelevance = "HIGH"
+set R14.sourceFrameworks = "AIM-PRO"
+end
+
+do
+create instance of Competency "R15"
+set R15.ID = "R15"
+set R15.title = "AI Ethics in Entrepreneurship" 
+set R15.description = "Apply ethical frameworks in commercial AI deployment" 
+set R15.category = "RESILIENCE" 
+set R15.ksa = "SKILL" 
+set R15.proficiency = "INTERMEDIATE" 
+set R15.heRelevance = "HIGH" 
+set R15.smeRelevance = "HIGH" 
+set R15.vetRelevance = "MEDIUM"
+set R15.sourceFrameworks = "EntreComp, UNESCO"
+end
+
+do
+create instance of Competency "R16"
+set R16.ID = "R16"
+set R16.title = "AI Value Proposition Design" 
+set R16.description = "Create value propositions leveraging AI capabilities" 
+set R16.category = "RESILIENCE" 
+set R16.ksa = "SKILL" 
+set R16.proficiency = "ADVANCED" 
+set R16.heRelevance = "MEDIUM" 
+set R16.smeRelevance = "HIGH" 
+set R16.vetRelevance = "LOW"
+set R16.sourceFrameworks = "EntreComp, AIM-PRO"
+end
+
+do
+create instance of Competency "R17"
+set R17.ID = "R17"
+set R17.title = "Psychological Resilience" 
+set R17.description = "Develop coping for professional changes caused by AI" 
+set R17.category = "RESILIENCE" 
+set R17.ksa = "ATTITUDE" 
+set R17.proficiency = "FOUNDATION" 
+set R17.heRelevance = "HIGH" 
+set R17.smeRelevance = "HIGH" 
+set R17.vetRelevance = "HIGH"
+set R17.sourceFrameworks = "AIM-PRO (novel)"
+end
+
+do
+create instance of Competency "R18"
+set R18.ID = "R18"
+set R18.title = "AI-Supported Decision Agility" 
+set R18.description = "Make rapid decisions using AI analytics" 
+set R18.category = "RESILIENCE" 
+set R18.ksa = "SKILL" 
+set R18.proficiency = "INTERMEDIATE" 
+set R18.heRelevance = "MEDIUM" 
+set R18.smeRelevance = "HIGH" 
+set R18.vetRelevance = "MEDIUM"
+set R18.sourceFrameworks = "EntreComp, AIM-PRO"
+end
+
+do
+create instance of Competency "R19"
+set R19.ID = "R19"
+set R19.title = "Stakeholder Engagement with AI" 
+set R19.description = "Communicate AI strategies to diverse stakeholders" 
+set R19.category = "RESILIENCE" 
+set R19.ksa = "SKILL" 
+set R19.proficiency = "INTERMEDIATE" 
+set R19.heRelevance = "MEDIUM" 
+set R19.smeRelevance = "HIGH" 
+set R19.vetRelevance = "MEDIUM"
+set R19.sourceFrameworks = "EntreComp"
+end
+
+do
+create instance of Competency "R20"
+set R20.ID = "R20"
+set R20.title = "AI & Social Innovation" 
+set R20.description = "Apply AI for social good and community challenges" 
+set R20.category = "RESILIENCE" 
+set R20.ksa = "SKILL" 
+set R20.proficiency = "ADVANCED" 
+set R20.heRelevance = "HIGH" 
+set R20.smeRelevance = "MEDIUM" 
+set R20.vetRelevance = "MEDIUM"
+set R20.sourceFrameworks = "EntreComp, UNESCO"
+end
+
+do
+create instance of Competency "R21"
+set R21.ID = "R21"
+set R21.title = "Financial Literacy for AI" 
+set R21.description = "Evaluate ROI and cost-benefit of AI implementations" 
+set R21.category = "RESILIENCE" 
+set R21.ksa = "KNOWLEDGE" 
+set R21.proficiency = "INTERMEDIATE" 
+set R21.heRelevance = "MEDIUM" 
+set R21.smeRelevance = "HIGH" 
+set R21.vetRelevance = "MEDIUM"
+set R21.sourceFrameworks = "EntreComp, AIM-PRO"
+end
+
+do
+create instance of Competency "R22"
+set R22.ID = "R22"
+set R22.title = "AI-Enabled Customer Insights" 
+set R22.description = "Use AI analytics to understand customer behavior" 
+set R22.category = "RESILIENCE" 
+set R22.ksa = "SKILL" 
+set R22.proficiency = "INTERMEDIATE" 
+set R22.heRelevance = "LOW" 
+set R22.smeRelevance = "HIGH" 
+set R22.vetRelevance = "MEDIUM"
+set R22.sourceFrameworks = "AIM-PRO"
+end
+
+do
+create instance of Competency "R23"
+set R23.ID = "R23"
+set R23.title = "Regulatory Navigation for AI" 
+set R23.description = "Navigate regulatory frameworks affecting AI in business" 
+set R23.category = "RESILIENCE" 
+set R23.ksa = "KNOWLEDGE" 
+set R23.proficiency = "ADVANCED" 
+set R23.heRelevance = "MEDIUM" 
+set R23.smeRelevance = "HIGH" 
+set R23.vetRelevance = "MEDIUM"
+set R23.sourceFrameworks = "EU AI Act, EntreComp"
+end
+
+do
+create instance of Competency "R24"
+set R24.ID = "R24"
+set R24.title = "Community of Practice Building" 
+set R24.description = "Foster networks for sharing AI best practices" 
+set R24.category = "RESILIENCE" 
+set R24.ksa = "ATTITUDE" 
+set R24.proficiency = "INTERMEDIATE" 
+set R24.heRelevance = "HIGH" 
+set R24.smeRelevance = "HIGH" 
+set R24.vetRelevance = "HIGH"
+set R24.sourceFrameworks = "AIM-PRO, EntreComp"
+end
+
+do
+create instance of Competency "R25"
+set R25.ID = "R25"
+set R25.title = "Resilient AI Systems Design" 
+set R25.description = "Contribute to robust, fault-tolerant AI systems" 
+set R25.category = "RESILIENCE" 
+set R25.ksa = "SKILL" 
+set R25.proficiency = "ADVANCED" 
+set R25.heRelevance = "HIGH" 
+set R25.smeRelevance = "MEDIUM" 
+set R25.vetRelevance = "LOW"
+set R25.sourceFrameworks = "AIM-PRO (novel)"
+end
+
+do
+create instance of Competency "R26"
+set R26.ID = "R26"
+set R26.title = "AI-Powered Process Optimisation" 
+set R26.description = "Use AI to analyse, redesign and optimise professional or organisational processes with appropriate constraints and guardrails." 
+set R26.category = "RESILIENCE" 
+set R26.ksa = "SKILL" 
+set R26.proficiency = "INTERMEDIATE" 
+set R26.heRelevance = "MEDIUM" 
+set R26.smeRelevance = "HIGH" 
+set R26.vetRelevance = "HIGH"
+set R26.sourceFrameworks = "USAL v3.1 / extended feedback"
+end
+
+do
+create instance of Competency "R27"
+set R27.ID = "R27"
+set R27.title = "Human Agency and Oversight" 
+set R27.description = "Maintain meaningful human agency and oversight when AI systems support or automate decisions and actions." 
+set R27.category = "RESILIENCE" 
+set R27.ksa = "SKILL" 
+set R27.proficiency = "ADVANCED" 
+set R27.heRelevance = "MEDIUM" 
+set R27.smeRelevance = "HIGH" 
+set R27.vetRelevance = "MEDIUM"
+set R27.sourceFrameworks = "USAL v3.1 / EU AI Act Art. 14 anchor"
+end
+
+do
+create instance of Competency "T01"
+set T01.ID = "T01"
+set T01.title = "Neural Network Architecture" 
+set T01.description = "Understand structure of neural networks and deep learning" 
+set T01.category = "DEEP_TECH" 
+set T01.ksa = "KNOWLEDGE" 
+set T01.proficiency = "FOUNDATION" 
+set T01.heRelevance = "HIGH" 
+set T01.smeRelevance = "LOW" 
+set T01.vetRelevance = "MEDIUM"
+set T01.sourceFrameworks = "UNESCO, L&M"
+end
+
+do
+create instance of Competency "T02"
+set T02.ID = "T02"
+set T02.title = "Deep Learning Frameworks" 
+set T02.description = "Use TensorFlow, PyTorch for AI model development" 
+set T02.category = "DEEP_TECH" 
+set T02.ksa = "SKILL" 
+set T02.proficiency = "INTERMEDIATE" 
+set T02.heRelevance = "HIGH" 
+set T02.smeRelevance = "MEDIUM" 
+set T02.vetRelevance = "MEDIUM"
+set T02.sourceFrameworks = "AIM-PRO"
+end
+
+do
+create instance of Competency "T03"
+set T03.ID = "T03"
+set T03.title = "NLP Engineering" 
+set T03.description = "Develop and fine-tune NLP models and applications" 
+set T03.category = "DEEP_TECH" 
+set T03.ksa = "SKILL" 
+set T03.proficiency = "ADVANCED" 
+set T03.heRelevance = "HIGH" 
+set T03.smeRelevance = "MEDIUM" 
+set T03.vetRelevance = "LOW"
+set T03.sourceFrameworks = "AIM-PRO"
+end
+
+do
+create instance of Competency "T04"
+set T04.ID = "T04"
+set T04.title = "Computer Vision Development" 
+set T04.description = "Build and deploy computer vision systems" 
+set T04.category = "DEEP_TECH" 
+set T04.ksa = "SKILL" 
+set T04.proficiency = "ADVANCED" 
+set T04.heRelevance = "HIGH" 
+set T04.smeRelevance = "MEDIUM" 
+set T04.vetRelevance = "LOW"
+set T04.sourceFrameworks = "AIM-PRO"
+end
+
+do
+create instance of Competency "T05"
+set T05.ID = "T05"
+set T05.title = "Reinforcement Learning" 
+set T05.description = "Apply RL principles to decision-making systems" 
+set T05.category = "DEEP_TECH" 
+set T05.ksa = "KNOWLEDGE" 
+set T05.proficiency = "ADVANCED" 
+set T05.heRelevance = "HIGH" 
+set T05.smeRelevance = "LOW" 
+set T05.vetRelevance = "LOW"
+set T05.sourceFrameworks = "AIM-PRO"
+end
+
+do
+create instance of Competency "T06"
+set T06.ID = "T06"
+set T06.title = "AI Algorithm Design" 
+set T06.description = "Design algorithms for classification, regression, clustering" 
+set T06.category = "DEEP_TECH" 
+set T06.ksa = "SKILL" 
+set T06.proficiency = "INTERMEDIATE" 
+set T06.heRelevance = "HIGH" 
+set T06.smeRelevance = "MEDIUM" 
+set T06.vetRelevance = "MEDIUM"
+set T06.sourceFrameworks = "UNESCO, AIM-PRO"
+end
+
+do
+create instance of Competency "T07"
+set T07.ID = "T07"
+set T07.title = "Model-Driven Engineering for AI" 
+set T07.description = "Apply MDE to AI system development and educational tools" 
+set T07.category = "DEEP_TECH" 
+set T07.ksa = "SKILL" 
+set T07.proficiency = "ADVANCED" 
+set T07.heRelevance = "HIGH" 
+set T07.smeRelevance = "MEDIUM" 
+set T07.vetRelevance = "LOW"
+set T07.sourceFrameworks = "AIM-PRO (core)"
+end
+
+do
+create instance of Competency "T08"
+set T08.ID = "T08"
+set T08.title = "AI & Software Integration" 
+set T08.description = "Integrate AI into software engineering workflows" 
+set T08.category = "DEEP_TECH" 
+set T08.ksa = "SKILL" 
+set T08.proficiency = "INTERMEDIATE" 
+set T08.heRelevance = "HIGH" 
+set T08.smeRelevance = "HIGH" 
+set T08.vetRelevance = "MEDIUM"
+set T08.sourceFrameworks = "AIM-PRO"
+end
+
+do
+create instance of Competency "T09"
+set T09.ID = "T09"
+set T09.title = "Data Engineering for AI" 
+set T09.description = "Build data pipelines for AI training and deployment" 
+set T09.category = "DEEP_TECH" 
+set T09.ksa = "SKILL" 
+set T09.proficiency = "INTERMEDIATE" 
+set T09.heRelevance = "HIGH" 
+set T09.smeRelevance = "MEDIUM" 
+set T09.vetRelevance = "MEDIUM"
+set T09.sourceFrameworks = "AIM-PRO"
+end
+
+do
+create instance of Competency "T10"
+set T10.ID = "T10"
+set T10.title = "AI Model Evaluation" 
+set T10.description = "Apply evaluation metrics and validation techniques" 
+set T10.category = "DEEP_TECH" 
+set T10.ksa = "SKILL" 
+set T10.proficiency = "INTERMEDIATE" 
+set T10.heRelevance = "HIGH" 
+set T10.smeRelevance = "MEDIUM" 
+set T10.vetRelevance = "MEDIUM"
+set T10.sourceFrameworks = "UNESCO, AIM-PRO"
+end
+
+do
+create instance of Competency "T11"
+set T11.ID = "T11"
+set T11.title = "Transfer Learning & Fine-tuning" 
+set T11.description = "Adapt pre-trained models to domain tasks" 
+set T11.category = "DEEP_TECH" 
+set T11.ksa = "SKILL" 
+set T11.proficiency = "ADVANCED" 
+set T11.heRelevance = "HIGH" 
+set T11.smeRelevance = "MEDIUM" 
+set T11.vetRelevance = "LOW"
+set T11.sourceFrameworks = "AIM-PRO"
+end
+
+do
+create instance of Competency "T12"
+set T12.ID = "T12"
+set T12.title = "Generative AI Architecture" 
+set T12.description = "Understand transformers, diffusion models, generative approaches" 
+set T12.category = "DEEP_TECH" 
+set T12.ksa = "KNOWLEDGE" 
+set T12.proficiency = "ADVANCED" 
+set T12.heRelevance = "HIGH" 
+set T12.smeRelevance = "LOW" 
+set T12.vetRelevance = "LOW"
+set T12.sourceFrameworks = "AIM-PRO"
+end
+
+do
+create instance of Competency "T13"
+set T13.ID = "T13"
+set T13.title = "AI Systems Deployment" 
+set T13.description = "Deploy AI in production with monitoring and maintenance" 
+set T13.category = "DEEP_TECH" 
+set T13.ksa = "SKILL" 
+set T13.proficiency = "ADVANCED" 
+set T13.heRelevance = "HIGH" 
+set T13.smeRelevance = "HIGH" 
+set T13.vetRelevance = "MEDIUM"
+set T13.sourceFrameworks = "AIM-PRO"
+end
+
+do
+create instance of Competency "T14"
+set T14.ID = "T14"
+set T14.title = "MLOps & Lifecycle Management" 
+set T14.description = "Apply DevOps principles to ML lifecycle" 
+set T14.category = "DEEP_TECH" 
+set T14.ksa = "SKILL" 
+set T14.proficiency = "ADVANCED" 
+set T14.heRelevance = "HIGH" 
+set T14.smeRelevance = "HIGH" 
+set T14.vetRelevance = "LOW"
+set T14.sourceFrameworks = "AIM-PRO (novel)"
+end
+
+do
+create instance of Competency "T15"
+set T15.ID = "T15"
+set T15.title = "Digital Twin Engineering" 
+set T15.description = "Design digital twins using AI for educational purposes" 
+set T15.category = "DEEP_TECH" 
+set T15.ksa = "SKILL" 
+set T15.proficiency = "ADVANCED" 
+set T15.heRelevance = "HIGH" 
+set T15.smeRelevance = "MEDIUM" 
+set T15.vetRelevance = "LOW"
+set T15.sourceFrameworks = "AIM-PRO (core)"
+end
+
+do
+create instance of Competency "T16"
+set T16.ID = "T16"
+set T16.title = "AI Programming Proficiency" 
+set T16.description = "Write Python code with AI/ML libraries" 
+set T16.category = "DEEP_TECH" 
+set T16.ksa = "SKILL" 
+set T16.proficiency = "INTERMEDIATE" 
+set T16.heRelevance = "HIGH" 
+set T16.smeRelevance = "MEDIUM" 
+set T16.vetRelevance = "HIGH"
+set T16.sourceFrameworks = "UNESCO, AIM-PRO"
+end
+
+do
+create instance of Competency "T17"
+set T17.ID = "T17"
+set T17.title = "Statistical Foundations for AI" 
+set T17.description = "Apply probability, inference, Bayesian reasoning to AI" 
+set T17.category = "DEEP_TECH" 
+set T17.ksa = "KNOWLEDGE" 
+set T17.proficiency = "FOUNDATION" 
+set T17.heRelevance = "HIGH" 
+set T17.smeRelevance = "LOW" 
+set T17.vetRelevance = "MEDIUM"
+set T17.sourceFrameworks = "UNESCO, L&M"
+end
+
+do
+create instance of Competency "T18"
+set T18.ID = "T18"
+set T18.title = "Explainable AI (XAI)" 
+set T18.description = "Implement techniques making AI decisions interpretable" 
+set T18.category = "DEEP_TECH" 
+set T18.ksa = "SKILL" 
+set T18.proficiency = "ADVANCED" 
+set T18.heRelevance = "HIGH" 
+set T18.smeRelevance = "MEDIUM" 
+set T18.vetRelevance = "LOW"
+set T18.sourceFrameworks = "EU AI Act, AIM-PRO"
+end
+
+do
+create instance of Competency "T19"
+set T19.ID = "T19"
+set T19.title = "Edge AI & IoT Integration" 
+set T19.description = "Deploy AI on edge devices and IoT ecosystems" 
+set T19.category = "DEEP_TECH" 
+set T19.ksa = "SKILL" 
+set T19.proficiency = "ADVANCED" 
+set T19.heRelevance = "HIGH" 
+set T19.smeRelevance = "MEDIUM" 
+set T19.vetRelevance = "MEDIUM"
+set T19.sourceFrameworks = "DigComp, AIM-PRO"
+end
+
+do
+create instance of Competency "T20"
+set T20.ID = "T20"
+set T20.title = "AI Benchmarking" 
+set T20.description = "Compare AI solutions against established standards" 
+set T20.category = "DEEP_TECH" 
+set T20.ksa = "SKILL" 
+set T20.proficiency = "INTERMEDIATE" 
+set T20.heRelevance = "HIGH" 
+set T20.smeRelevance = "HIGH" 
+set T20.vetRelevance = "MEDIUM"
+set T20.sourceFrameworks = "AIM-PRO"
+end
+
+do
+create instance of Competency "T21"
+set T21.ID = "T21"
+set T21.title = "Bias Detection & Mitigation" 
+set T21.description = "Identify and address bias in data and model outputs" 
+set T21.category = "DEEP_TECH" 
+set T21.ksa = "SKILL" 
+set T21.proficiency = "INTERMEDIATE" 
+set T21.heRelevance = "HIGH" 
+set T21.smeRelevance = "MEDIUM" 
+set T21.vetRelevance = "MEDIUM"
+set T21.sourceFrameworks = "UNESCO, OECD"
+end
+
+do
+create instance of Competency "T22"
+set T22.ID = "T22"
+set T22.title = "Responsible AI Development" 
+set T22.description = "Apply fairness, accountability, transparency in AI dev" 
+set T22.category = "DEEP_TECH" 
+set T22.ksa = "SKILL" 
+set T22.proficiency = "FOUNDATION" 
+set T22.heRelevance = "HIGH" 
+set T22.smeRelevance = "HIGH" 
+set T22.vetRelevance = "HIGH"
+set T22.sourceFrameworks = "UNESCO, OECD, EU AI Act"
+end
+
+do
+create instance of Competency "T23"
+set T23.ID = "T23"
+set T23.title = "AI Research Methodology" 
+set T23.description = "Conduct systematic research on AI topics" 
+set T23.category = "DEEP_TECH" 
+set T23.ksa = "SKILL" 
+set T23.proficiency = "ADVANCED" 
+set T23.heRelevance = "HIGH" 
+set T23.smeRelevance = "LOW" 
+set T23.vetRelevance = "LOW"
+set T23.sourceFrameworks = "AIM-PRO"
+end
+
+do
+create instance of Competency "T24"
+set T24.ID = "T24"
+set T24.title = "Domain-Specific AI Applications" 
+set T24.description = "Develop AI solutions tailored to specific sectors" 
+set T24.category = "DEEP_TECH" 
+set T24.ksa = "SKILL" 
+set T24.proficiency = "ADVANCED" 
+set T24.heRelevance = "HIGH" 
+set T24.smeRelevance = "HIGH" 
+set T24.vetRelevance = "MEDIUM"
+set T24.sourceFrameworks = "AIM-PRO"
+end
+
+do
+create instance of Competency "T25"
+set T25.ID = "T25"
+set T25.title = "Advanced AI Problem Formulation" 
+set T25.description = "Formalize complex problems into AI-solvable models" 
+set T25.category = "DEEP_TECH" 
+set T25.ksa = "SKILL" 
+set T25.proficiency = "ADVANCED" 
+set T25.heRelevance = "HIGH" 
+set T25.smeRelevance = "MEDIUM" 
+set T25.vetRelevance = "LOW"
+set T25.sourceFrameworks = "UNESCO, AIM-PRO"
+end
+
+do
+create instance of Competency "T26"
+set T26.ID = "T26"
+set T26.title = "End-to-End AI Project Lifecycle" 
+set T26.description = "Apply the AI project lifecycle from problem framing through data, training/adaptation, evaluation, deployment, monitoring and review." 
+set T26.category = "DEEP_TECH" 
+set T26.ksa = "SKILL" 
+set T26.proficiency = "INTERMEDIATE" 
+set T26.heRelevance = "HIGH" 
+set T26.smeRelevance = "HIGH" 
+set T26.vetRelevance = "MEDIUM"
+set T26.sourceFrameworks = "USAL v3.0 / UPM review / AIM-PRO"
+end
