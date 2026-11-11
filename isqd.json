@@ -1,0 +1,64 @@
+[
+  {
+    "synthesis": "Familiarization",
+    "subcategories": [
+      "BuildingAiKnowledge",
+      "ModellingAiPractices",
+      "ExperiencingAffordancesOfAiTools",
+      "AiCaseBasedInstruction",
+      "ScaffoldedExploration",
+      "OpenExploration"
+    ]
+  },
+  {
+    "synthesis": "ReflectivePractice",
+    "subcategories": [
+      "RoleNegotiation",
+      "OutputEvaluation",
+      "DocumentedReflection",
+      "ReflectiveDiscussion",
+      "AiMediatedReflection"
+    ]
+  },
+  {
+    "synthesis": "CollaborativeDesign",
+    "subcategories": [
+      "PeerSupport",
+      "AiResourceAndStrategySharing",
+      "CommunitySupport",
+      "CoCreationWithAi",
+      "AiInformedPedagogicalAdaptation",
+      "IterativePrompting"
+    ]
+  },
+  {
+    "synthesis": "ACycleOfAuthenticExperiences",
+    "subcategories": [
+      "AiAssistedMicroteaching",
+      "AiIntegratedClassroomTeaching",
+      "EmotionalEnrichmentOfAiContent",
+      "AiIntegratedLessonRefinement",
+      "ResponsibleAiUse"
+    ]
+  },
+  {
+    "synthesis": "AffectiveDimension",
+    "subcategories": [
+      "EmotionalReactions",
+      "AttitudesAndBeliefs",
+      "SelfEfficacy"
+    ]
+  },
+  {
+    "synthesis": "InstitutionalVision",
+    "subcategories": [
+      "AiCourses",
+      "EducationalFrameworks",
+      "DisciplineSpecificAiIntegration",
+      "AiRelatedProfessionalLearning",
+      "Incentives",
+      "InstitutionalAiGuidelines",
+      "LeadershipSupport"
+    ]
+  }
+]
